@@ -1,0 +1,6183 @@
+{
+  "admins": {
+    "7Gk9WEhlFPa2jMLs5FOLakqXVKC2": true
+  },
+  "products": {
+    "1": {
+      "averageRating": "1.0",
+      "description": "A flavorsome sandwich perfectly seasoned mixed vegetable.",
+      "id": 1,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/99c5ceb1cd3bf29b4a2b3dad0d9f1704",
+      "initialPrice": 30,
+      "name": "Sandwich",
+      "price": 50,
+      "quantity": 26,
+      "reviews": {
+        "-OTTaXiW4FG8p19JWEWs": {
+          "rating": 1,
+          "review": "su",
+          "timestamp": 1750712593437,
+          "userId": "wKvl0TuXUZWPIpvu5qQ0Cz3UU0L2"
+        }
+      },
+      "totalRating": 4,
+      "totalRatings": 1
+    },
+    "2": {
+      "description": "Rich shot of espresso balanced with steamed milk and light layer of foam. Hot - large [300ml] - 147. 5 kcal / regular [250 ml] - 100. 3 kcal. Allergen - contains milk an average active adult requires 2000 kcal energy per day, however, calorie needs may vary.",
+      "id": 2,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/86f50c744c8201d1d962639b07022b36",
+      "initialPrice": 15,
+      "name": "Coffee",
+      "price": 30,
+      "quantity": 44,
+      "rating": 4,
+      "reviews": {
+        "-OTTJopVMHF0_QMLc5Zp": {
+          "comment": "super",
+          "rating": 4,
+          "timestamp": 1750707949002,
+          "userId": "P3E2dGFgy9dBbz3gzDgy5c4fzlC2",
+          "userName": "mohantsk481"
+        },
+        "wKvl0TuXUZWPIpvu5qQ0Cz3UU0L2": {
+          "rating": 4,
+          "review": "very sweet",
+          "timestamp": "2025-06-23T15:55:31.046Z",
+          "userId": "wKvl0TuXUZWPIpvu5qQ0Cz3UU0L2",
+          "userName": "mohantsk381"
+        }
+      },
+      "totalRatings": 3
+    },
+    "3": {
+      "averageRating": "2.0",
+      "description": "Blend of premium imported orange, sun melon & kafir lime [Kcal - 133.2, Carbs - 30.8, Protein - 2.4, Fiber - 1.4]",
+      "id": 3,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/pnhavfkmewlkj08ohblu",
+      "initialPrice": 30,
+      "name": "Light Orange Juice",
+      "price": 60,
+      "quantity": 45,
+      "rating": 2.5,
+      "reviews": {
+        "-OTT_3onTAo76NXBYiSb": {
+          "rating": 1,
+          "review": "ggd",
+          "timestamp": 1750712208770,
+          "userId": "P3E2dGFgy9dBbz3gzDgy5c4fzlC2"
+        },
+        "P3E2dGFgy9dBbz3gzDgy5c4fzlC2": {
+          "rating": 2,
+          "review": "rate",
+          "timestamp": "2025-06-23T15:57:38.252Z",
+          "userId": "P3E2dGFgy9dBbz3gzDgy5c4fzlC2",
+          "userName": "mohantsk481"
+        },
+        "wKvl0TuXUZWPIpvu5qQ0Cz3UU0L2": {
+          "rating": 3,
+          "review": "i will give 3 rating for this juice",
+          "timestamp": "2025-06-23T15:46:27.582Z",
+          "userId": "wKvl0TuXUZWPIpvu5qQ0Cz3UU0L2",
+          "userName": "Anonymous"
+        }
+      },
+      "totalRating": 1.4285714285714286,
+      "totalRatings": 7
+    },
+    "4": {
+      "description": "Served in a glass, this tasty tea is made with a spices mixture, milk, sugar and ginger.",
+      "id": 4,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/dhzbuubfkontf7fo1fuy",
+      "initialPrice": 10,
+      "name": "Tea",
+      "price": 20,
+      "quantity": 27,
+      "rating": 3.6,
+      "totalRating": 0.7777777777777778,
+      "totalRatings": 9
+    },
+    "5": {
+      "description": "Vanilla cookie dough with dark chocolate chunks baked to give you a soft, melt in mouth cookie.",
+      "id": 5,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/97813e95ee0119f836e818f4e9b805e1",
+      "initialPrice": 5,
+      "name": "Chocolate Chip Cookies ",
+      "price": 10,
+      "quantity": 35,
+      "totalRating": 4,
+      "totalRatings": 1
+    },
+    "6": {
+      "description": "Aerated drink with the added zing of jeera and masala, a perfect accompaniment to your meal.",
+      "id": 6,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/25b016a4f3021dad1923cf8d39f2378a",
+      "initialPrice": 15,
+      "name": "Jeera Masala Soda",
+      "price": 25,
+      "quantity": 40,
+      "totalRating": 3,
+      "totalRatings": 1
+    },
+    "7": {
+      "averageRating": "3.0",
+      "description": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ea763a948b331dc048441611995d04fe",
+      "id": 7,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ea763a948b331dc048441611995d04fe",
+      "initialPrice": 70,
+      "name": "Fresh Veggie Pizza",
+      "price": 100,
+      "quantity": 43,
+      "reviews": {
+        "-OTTqgNKsT0v98TxQIla": {
+          "rating": 3,
+          "review": "super",
+          "timestamp": 1750716827214,
+          "userId": "wKvl0TuXUZWPIpvu5qQ0Cz3UU0L2",
+          "userName": "mohantsk381"
+        }
+      }
+    },
+    "8": {
+      "description": "Masaledar Veg Patty, Onion & Our Signature Tomato.",
+      "id": 8,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_240,h_240/FOOD_CATALOG/IMAGES/CMS/2024/4/19/d4387d28-73ab-45b7-b424-61588863d158_9477217d-7c7a-4834-919a-b9ae7d7cf950.jpg",
+      "initialPrice": 30,
+      "name": "Burger",
+      "price": 45,
+      "quantity": 33,
+      "rating": 4,
+      "reviews": {
+        "wKvl0TuXUZWPIpvu5qQ0Cz3UU0L2": {
+          "rating": 4,
+          "review": "nice stuff",
+          "timestamp": "2025-06-23T15:50:53.979Z",
+          "userId": "wKvl0TuXUZWPIpvu5qQ0Cz3UU0L2",
+          "userName": "mohantsk381"
+        }
+      },
+      "totalRatings": 2
+    },
+    "9": {
+      "description": "Regular crisply brown fries with salt/ peri peri.",
+      "id": 9,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/aede9fa6a0caa272f9b7a87fda878f91",
+      "initialPrice": 40,
+      "name": "Fries",
+      "price": 60,
+      "quantity": 49
+    },
+    "10": {
+      "description": "Take a quick trip to outer space with a bite of this rich & creamy flavour. It comes stuffed with cookie crumbles and coolness. Packaged in a cup for a single sweet treat. Serving size - 100ml for 175 Kcal. Allergen: Contains milk, wheat, and soya ingredients. An average active adult requires 2000 kcal energy per day.",
+      "id": 10,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/4/18/3e88889c-8baf-42bb-9da5-95e46ac47729_80cf3255-152c-4cf8-8e64-a1a674e4d521.jpg",
+      "initialPrice": 30,
+      "name": "Ice Cream",
+      "price": 40,
+      "quantity": 38
+    },
+    "11": {
+      "description": "Crispy potato fries tossed in a spicy and tangy chili sauce. This Indo-Chinese appetizer is a delightful blend of flavors and textures, perfect for a quick snack or starter.",
+      "id": 11,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/7/30/2d2918dc-7e2e-418f-b5fa-303df59711e6_8630c2ae-ceff-40c5-adc5-dfa541406688.jpg",
+      "initialPrice": 30,
+      "name": "Chilly Potato",
+      "price": 50,
+      "quantity": 21
+    },
+    "12": {
+      "description": "Creamy and velvety, this vegetable-infused pasta is a delectable delight for pasta lovers.",
+      "id": 12,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/a42e27ade812dcd037ddd18e1656f5a1",
+      "initialPrice": 40,
+      "name": "White Sauce Pasta",
+      "price": 60,
+      "quantity": 51
+    },
+    "-OA5xP9VkogkHu4my2gr": {
+      "description": "Crispy, golden dosa filled with a flavorful combination of aromatic spices and tantalizing flavors.",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/dc1d8cf6467a8fa49c8845c79014f793",
+      "initialPrice": 80,
+      "name": "Masala Dosa",
+      "price": 100,
+      "quantity": 34,
+      "totalRating": 4,
+      "totalRatings": 1
+    },
+    "-OA5y2YjA_IFXLQVRRxA": {
+      "description": "A delightfully wholesome tasty and Perfectly cooked, perfect for satisfying your hunger",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ntyzjvttcqa3fuqfomqn",
+      "initialPrice": 90,
+      "name": "Veg Noodles",
+      "price": 120,
+      "quantity": 30,
+      "rating": 4,
+      "reviews": {
+        "P3E2dGFgy9dBbz3gzDgy5c4fzlC2": {
+          "rating": 4,
+          "review": "asdfghjkl",
+          "timestamp": "2025-06-23T16:54:25.217Z",
+          "userId": "P3E2dGFgy9dBbz3gzDgy5c4fzlC2",
+          "userName": "mohantsk481"
+        }
+      },
+      "totalRatings": 2
+    },
+    "-OAGA4GYoa7p4Ft06RaO": {
+      "description": "Crispy golden pooris served with a flavorful potato filling.",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ojryfl20dtffpqbo7fsk",
+      "initialPrices": 40,
+      "name": "Poori Aloo",
+      "price": 60,
+      "quantity": 42
+    },
+    "-OAGBRyZATifqYwj5h4L": {
+      "description": "Start your day with fresh aloo and onion paratha prepared with fresh dough and aloo mixed stuffing with right combination of spices topped with amul butter. Served with pickle, curd, mint chutney, onions and amul butter.",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/6/28/59c38311-8519-426a-87b2-bd9564f9b119_af3cc062-b10c-476a-8965-1ac0351b2a7e.jpg",
+      "initialPrices": 40,
+      "name": "Aloo Pyaaz Paratha",
+      "price": 60,
+      "quantity": 42
+    },
+    "-OLZGIrGFxTQ2zb-BByc": {
+      "description": "Noodles tossed with onion, capsicum & carrot in schezwan sauce. Garnished with spring onion.",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/a2cac9a3b467ffd2cf02cea6e35f6461",
+      "initialPrices": 80,
+      "name": "Veg Schezwan Noodles - Half (500 ml)",
+      "price": 129,
+      "quantity": 40
+    },
+    "-OLZJDgopUjCUZ91SqwW": {
+      "description": "Serves 1 | Signature Special – The Pride of Our Menu! Raj Kachori – A Royal Treat! *Crispy Kachori Shell – Golden-fried and crunchy. *Tangy Chutneys – A perfect mix of tamarind & mint. *Curd (100g) – Creamy, rich, and cooling. *Spiced Masala Mix – A medley of potatoes, chana, bhalla, papdi, boondi & sprouts. *Garnished with Sev & Pomegranate – A delightful crunch & a fruity burst! ~~ A grand chaat experience in every bite!",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/6/5/61d9e9c4-844e-4e1b-8219-71de146fef91_2bd34539-6d95-4bd7-8a2c-467f2ad8acc2.jpg",
+      "initialPrices": 100,
+      "name": "Raj Kachori",
+      "price": 160,
+      "quantity": 48,
+      "reviews": {
+        "-OTTKpgIemSsCnxnNLHd": {
+          "comment": "one of my favourite dish",
+          "rating": 5,
+          "timestamp": 1750708214683,
+          "userId": "P3E2dGFgy9dBbz3gzDgy5c4fzlC2",
+          "userName": "mohantsk481"
+        }
+      }
+    },
+    "-OLZJXGL1AGOvSYTY-6j": {
+      "description": "Serves 1 | Veg Sweet Corn Soup: A sweet corn soup with vegetables.",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/7/20/a72a084a-7477-4fbf-b61b-ae3811f09922_671b962b-43f5-4b3c-b997-e065058d7661.jpg",
+      "initialPrices": 90,
+      "name": "Veg Sweet Corn Soup",
+      "price": 120,
+      "quantity": 39
+    },
+    "-OLZKHMySZwFZ4k8KNXD": {
+      "description": "Momo stuffed with freshly chopped Vegetables (Onion, carrot, cabbage, beans & Coriander), herbs and tinch of Spices. Served with Spicy Red Authentic Darjeeling Momo Sauce and We don't serve green sauce [5pcs].Steam Momos taste best when eaten with hand. 100 gms/ 187.98 kcal.",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/19/f1e35f4e-70b1-4480-a921-7b6582f5dd4e_c19929e1-1232-43b6-87f0-daaa98f7dced.png",
+      "initialPrices": 50,
+      "name": "Veg Darjeeling Steam Momo",
+      "price": 90,
+      "quantity": 47
+    }
+  },
+  "sales": {
+    "2025-04-05": {
+      "1743841774420": {
+        "items": [
+          {
+            "id": 6,
+            "price": 25,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1743841774420,
+        "total": 25,
+        "userEmail": "hero@gmail.com",
+        "userId": "TSySH3jBiob6KRfuvRuIsz5GgjC3"
+      },
+      "1743841822205": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1743841822205,
+        "total": 30,
+        "userEmail": "hero@gmail.com",
+        "userId": "TSySH3jBiob6KRfuvRuIsz5GgjC3"
+      }
+    },
+    "2025-04-06": {
+      "1743919626003": {
+        "items": [
+          {
+            "id": 7,
+            "price": 100,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1743919626003,
+        "total": 100,
+        "userEmail": "hero@gmail.com",
+        "userId": "TSySH3jBiob6KRfuvRuIsz5GgjC3"
+      },
+      "1743933571898": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1743933571899,
+        "total": 50,
+        "userEmail": "abhishek4848785@gmail.com",
+        "userId": "AagTSvReMtPYl2ZudbZkdl4qwBJ2"
+      },
+      "1743933656897": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1743933656897,
+        "total": 30,
+        "userEmail": "abhishek4848785@gmail.com",
+        "userId": "AagTSvReMtPYl2ZudbZkdl4qwBJ2"
+      },
+      "1743933761110": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 10
+          }
+        ],
+        "timestamp": 1743933761110,
+        "total": 600,
+        "userEmail": "abhishek4848785@gmail.com",
+        "userId": "AagTSvReMtPYl2ZudbZkdl4qwBJ2"
+      },
+      "1743935286446": {
+        "items": [
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 4
+          }
+        ],
+        "timestamp": 1743935286446,
+        "total": 80,
+        "userEmail": "abhishek4848785@gmail.com",
+        "userId": "AagTSvReMtPYl2ZudbZkdl4qwBJ2"
+      },
+      "1743941200106": {
+        "items": [
+          {
+            "id": 5,
+            "price": 10,
+            "quantity": 5
+          },
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          },
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1743941200106,
+        "total": 190,
+        "userEmail": "abcd@gmail.com",
+        "userId": "TJoGRO0H9yYBZ7lgQTvjaDb0p0K3"
+      },
+      "1743946144179": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1743946144179,
+        "total": 60,
+        "userEmail": "jonaiassistant@gmail.com",
+        "userId": "MyqTLfx68GMBFB45yrG9MkuFhtW2"
+      }
+    },
+    "2025-04-07": {
+      "1744011985550": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1744011985550,
+        "total": 30,
+        "userEmail": "harshil@gmail.com",
+        "userId": "T3H1WKj0ksge9JNIrk3Zah7nKrW2"
+      },
+      "1744012004719": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1744012004719,
+        "total": 50,
+        "userEmail": "harshil@gmail.com",
+        "userId": "T3H1WKj0ksge9JNIrk3Zah7nKrW2"
+      },
+      "1744012029065": {
+        "items": [
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1744012029065,
+        "total": 20,
+        "userEmail": "harshil@gmail.com",
+        "userId": "T3H1WKj0ksge9JNIrk3Zah7nKrW2"
+      },
+      "1744021992639": {
+        "items": [
+          {
+            "id": 7,
+            "price": 100,
+            "quantity": 5
+          }
+        ],
+        "timestamp": 1744021992639,
+        "total": 500,
+        "userEmail": "admin@gamil.com",
+        "userId": "xhEFr0xqFHS6Cnm12IiF3SeEsOS2"
+      },
+      "1744022360966": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 10
+          }
+        ],
+        "timestamp": 1744022360967,
+        "total": 500,
+        "userEmail": "admin@gamil.com",
+        "userId": "xhEFr0xqFHS6Cnm12IiF3SeEsOS2"
+      }
+    },
+    "2025-04-09": {
+      "1744214021462": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1744214021462,
+        "total": 60,
+        "userEmail": "amit@gmail.com",
+        "userId": "DRQKiBWgBeXzRFEmQA9SNY3qpK92"
+      },
+      "1744214076120": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          },
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1744214076120,
+        "total": 90,
+        "userEmail": "amit@gmail.com",
+        "userId": "DRQKiBWgBeXzRFEmQA9SNY3qpK92"
+      },
+      "1744225728232": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1744225728232,
+        "total": 60,
+        "userEmail": "admin@gmail.com",
+        "userId": "6wZUBiF5PzX4XqY9wD1yX7BE9702"
+      },
+      "1744225992105": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 2
+          },
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 2
+          },
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1744225992105,
+        "total": 200,
+        "userEmail": "admin@gmail.com",
+        "userId": "6wZUBiF5PzX4XqY9wD1yX7BE9702"
+      },
+      "1744226325570": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 22
+          }
+        ],
+        "timestamp": 1744226325570,
+        "total": 1100,
+        "userEmail": "admin@gmail.com",
+        "userId": "6wZUBiF5PzX4XqY9wD1yX7BE9702"
+      },
+      "1744227806825": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1744227806825,
+        "total": 30,
+        "userEmail": "admin@gmail.com",
+        "userId": "6wZUBiF5PzX4XqY9wD1yX7BE9702"
+      },
+      "1744228362530": {
+        "items": [
+          {
+            "id": 6,
+            "price": 25,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1744228362530,
+        "total": 25,
+        "userEmail": "admin@gmail.com",
+        "userId": "6wZUBiF5PzX4XqY9wD1yX7BE9702"
+      }
+    },
+    "2025-04-10": {
+      "1744275562024": {
+        "items": [
+          {
+            "id": 6,
+            "price": 25,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1744275562024,
+        "total": 25,
+        "userEmail": "admin@gmail.com",
+        "userId": "6wZUBiF5PzX4XqY9wD1yX7BE9702"
+      },
+      "1744275625671": {
+        "items": [
+          {
+            "id": "-OLZGIrGFxTQ2zb-BByc",
+            "price": 129,
+            "quantity": 1
+          },
+          {
+            "id": "-OAGA4GYoa7p4Ft06RaO",
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1744275625671,
+        "total": 189,
+        "userEmail": "admin@gmail.com",
+        "userId": "6wZUBiF5PzX4XqY9wD1yX7BE9702"
+      },
+      "1744275677656": {
+        "items": [
+          {
+            "id": 10,
+            "price": 40,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1744275677656,
+        "total": 40,
+        "userEmail": "admin@gmail.com",
+        "userId": "6wZUBiF5PzX4XqY9wD1yX7BE9702"
+      },
+      "1744309813219": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1744309813219,
+        "total": 30,
+        "userEmail": "fdsfsd@gmail.com",
+        "userId": "G8fmnMFbsUaHLXKTVP0QyLe5NDZ2"
+      }
+    },
+    "2025-04-11": {
+      "1744390168289": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1744390168289,
+        "total": 30,
+        "userEmail": "aadarshsavle@gmail.com",
+        "userId": "xiBBuEgNIVOHGCmkLllCT3aPigm1"
+      }
+    },
+    "2025-04-12": {
+      "1744467650832": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          },
+          {
+            "id": 7,
+            "price": 100,
+            "quantity": 1
+          },
+          {
+            "id": 12,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1744467650832,
+        "total": 190,
+        "userEmail": "aadarshsavle@gmail.com",
+        "userId": "xiBBuEgNIVOHGCmkLllCT3aPigm1"
+      }
+    },
+    "2025-04-13": {
+      "1744529501009": {
+        "items": [
+          {
+            "id": 12,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1744529501009,
+        "total": 60,
+        "userEmail": "ombongulwar@gmail.com",
+        "userId": "dvBs9o4D9MhrmCik8ccjoaAPb9b2"
+      },
+      "1744529541533": {
+        "items": [
+          {
+            "id": "-OAGBRyZATifqYwj5h4L",
+            "price": 60,
+            "quantity": 1
+          },
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          },
+          {
+            "id": "-OAGA4GYoa7p4Ft06RaO",
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1744529541533,
+        "total": 180,
+        "userEmail": "ombongulwar@gmail.com",
+        "userId": "dvBs9o4D9MhrmCik8ccjoaAPb9b2"
+      }
+    },
+    "2025-04-14": {
+      "1744607385365": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 3
+          },
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1744607385365,
+        "total": 200,
+        "userEmail": "aadarshsavle@gmail.com",
+        "userId": "xiBBuEgNIVOHGCmkLllCT3aPigm1"
+      },
+      "1744648668081": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1744648668081,
+        "total": 50,
+        "userEmail": "abhishek777@gmail.com",
+        "userId": "0x2xB7xSlUhu0wakz9E5bAafowt2"
+      }
+    },
+    "2025-04-16": {
+      "1744776209275": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1744776209275,
+        "total": 30,
+        "userEmail": "gurramyeshwanth09@gmail.com",
+        "userId": "wezurFXYwsPOVvQrEHU4nfGrIEo2"
+      },
+      "1744776237923": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1744776237923,
+        "total": 30,
+        "userEmail": "gurramyeshwanth09@gmail.com",
+        "userId": "wezurFXYwsPOVvQrEHU4nfGrIEo2"
+      },
+      "1744776263554": {
+        "timestamp": 1744776263554,
+        "total": 0,
+        "userEmail": "gurramyeshwanth09@gmail.com",
+        "userId": "wezurFXYwsPOVvQrEHU4nfGrIEo2"
+      },
+      "1744778293535": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1744778293535,
+        "total": 60,
+        "userEmail": "gurramyeshwanth09@gmail.com",
+        "userId": "wezurFXYwsPOVvQrEHU4nfGrIEo2"
+      },
+      "1744781525723": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 3
+          }
+        ],
+        "timestamp": 1744781525723,
+        "total": 150,
+        "userEmail": "deenadhayalanm1969@gmail.com",
+        "userId": "RMSG5iRc5zXl4R6v96EWhfMjoby1"
+      },
+      "1744785069087": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 4
+          },
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 5
+          }
+        ],
+        "timestamp": 1744785069087,
+        "total": 350,
+        "userEmail": "sfsdf@gmail.com",
+        "userId": "mAH5AUHuSJP2yqmP0eTWoUWSyGp2"
+      },
+      "1744790696958": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1744790696958,
+        "total": 50,
+        "userEmail": "madhan@gmail.com",
+        "userId": "6ETyS7vlkYXJ7kwCcTV1OKtIJ962"
+      },
+      "1744790963099": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 20
+          }
+        ],
+        "timestamp": 1744790963099,
+        "total": 1000,
+        "userEmail": "madhan@gmail.com",
+        "userId": "6ETyS7vlkYXJ7kwCcTV1OKtIJ962"
+      },
+      "1744791007042": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          },
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 3
+          },
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 2
+          },
+          {
+            "id": 6,
+            "price": 25,
+            "quantity": 3
+          }
+        ],
+        "timestamp": 1744791007042,
+        "total": 335,
+        "userEmail": "madhan@gmail.com",
+        "userId": "6ETyS7vlkYXJ7kwCcTV1OKtIJ962"
+      },
+      "1744794642173": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1744794642173,
+        "total": 60,
+        "userEmail": "madhan@gmail.com",
+        "userId": "6ETyS7vlkYXJ7kwCcTV1OKtIJ962"
+      },
+      "1744797405272": {
+        "items": [
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1744797405272,
+        "total": 20,
+        "userEmail": "mailtomadhankumarks@gmail.com",
+        "userId": "WgG1G4pNqTX9x0zaEL2jX5wQXfC2"
+      },
+      "1744798870360": {
+        "items": [
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1744798870360,
+        "total": 20,
+        "userEmail": "mailtomadhankumarks@gmail.com",
+        "userId": "WgG1G4pNqTX9x0zaEL2jX5wQXfC2"
+      },
+      "1744801365575": {
+        "items": [
+          {
+            "id": 10,
+            "price": 40,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1744801365575,
+        "total": 40,
+        "userEmail": "mailtomadhankumarks@gmail.com",
+        "userId": "WgG1G4pNqTX9x0zaEL2jX5wQXfC2"
+      },
+      "1744803556146": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1744803556146,
+        "total": 30,
+        "userEmail": "mailtomadhankumarks@gmail.com",
+        "userId": "WgG1G4pNqTX9x0zaEL2jX5wQXfC2"
+      },
+      "1744808207429": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1744808207429,
+        "total": 30,
+        "userEmail": "mailtomadhankumarks@gmail.com",
+        "userId": "WgG1G4pNqTX9x0zaEL2jX5wQXfC2"
+      },
+      "1744808889255": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1744808889255,
+        "total": 30,
+        "userEmail": "mailtomadhankumarks@gmail.com",
+        "userId": "WgG1G4pNqTX9x0zaEL2jX5wQXfC2"
+      },
+      "1744813134873": {
+        "items": [
+          {
+            "id": 7,
+            "price": 100,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1744813134873,
+        "total": 200,
+        "userEmail": "tanmaypadhiar55@gmail.com",
+        "userId": "BcTrlvJFwvM2OuxM2zerUaehDjA3"
+      }
+    },
+    "2025-04-18": {
+      "1744964451348": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1744964451348,
+        "total": 30,
+        "userEmail": "asd12@gmail.com",
+        "userId": "ENC6gz0EgCgDwNmA9Aij8w1bBSV2"
+      },
+      "1744965121512": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1744965121512,
+        "total": 30,
+        "userEmail": "kd@email.com",
+        "userId": "fEG2SlQISnNvbi0jnktseXQZ1YG2"
+      },
+      "1744966457033": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1744966457033,
+        "total": 60,
+        "userEmail": "nalaksh1122@gmail.com",
+        "userId": "XEqOYXlxrXaHhENr12XzEgEUUBm1"
+      },
+      "1744967204980": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1744967204980,
+        "total": 120,
+        "userEmail": "nalaksh1122@gmail.com",
+        "userId": "XEqOYXlxrXaHhENr12XzEgEUUBm1"
+      },
+      "1744970851167": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1744970851167,
+        "total": 60,
+        "userEmail": "mansirahangdale25@gmail.com",
+        "userId": "71lvbZ91fceDTalEwS8mrsOanOo1"
+      }
+    },
+    "2025-04-19": {
+      "1745061981968": {
+        "items": [
+          {
+            "id": 8,
+            "price": 45,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1745061981968,
+        "total": 45,
+        "userEmail": "mavijet377@linxues.com",
+        "userId": "CTHyfgrsQrb0dhmQG8n2VAj4Fqu2"
+      }
+    },
+    "2025-04-20": {
+      "1745149521428": {
+        "items": [
+          {
+            "id": 6,
+            "price": 25,
+            "quantity": 3
+          }
+        ],
+        "timestamp": 1745149521428,
+        "total": 75,
+        "userEmail": "nalaksh1122@gmail.com",
+        "userId": "XEqOYXlxrXaHhENr12XzEgEUUBm1"
+      },
+      "1745155257206": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1745155257206,
+        "total": 60,
+        "userEmail": "test@gmail.com",
+        "userId": "maS0zdl4ZkVxbaJzgqVAxXrdZz12"
+      },
+      "1745155266767": {
+        "items": [
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1745155266767,
+        "total": 20,
+        "userEmail": "test@gmail.com",
+        "userId": "maS0zdl4ZkVxbaJzgqVAxXrdZz12"
+      },
+      "1745155396670": {
+        "items": [
+          {
+            "id": "-OLZJXGL1AGOvSYTY-6j",
+            "price": 120,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1745155396670,
+        "total": 120,
+        "userEmail": "user123@gmail.com",
+        "userId": "viZAAJRamvcFwVrchw3KPUbLSsR2"
+      },
+      "1745159168675": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1745159168675,
+        "total": 60,
+        "userEmail": "ulsfvairp@mozmail.com",
+        "userId": "Sj1zfSNqgrZoi3u6alKN8c36uP13"
+      },
+      "1745159873886": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1745159873886,
+        "total": 60,
+        "userEmail": "rahul@gmail.com",
+        "userId": "WpRCtagtCxWFA9GLlVxpgKatKOq2"
+      },
+      "1745159903321": {
+        "items": [
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1745159903321,
+        "total": 40,
+        "userEmail": "rahul@gmail.com",
+        "userId": "WpRCtagtCxWFA9GLlVxpgKatKOq2"
+      },
+      "1745166982472": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1745166982472,
+        "total": 60,
+        "userEmail": "dilshan4570@gmail.com",
+        "userId": "eRFKM7JifDM6Q1WKPNToet9B1wu2"
+      }
+    },
+    "2025-04-21": {
+      "1745202652068": {
+        "items": [
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1745202652068,
+        "total": 20,
+        "userEmail": "pugazhendhiexplorer@gmail.com",
+        "userId": "48MNTCzqyLUcA3vczjs4051Iknv2"
+      },
+      "1745242177595": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 3
+          }
+        ],
+        "timestamp": 1745242177595,
+        "total": 180,
+        "userEmail": "nalaksh1122@gmail.com",
+        "userId": "XEqOYXlxrXaHhENr12XzEgEUUBm1"
+      },
+      "1745242197724": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1745242197724,
+        "total": 120,
+        "userEmail": "nalaksh1122@gmail.com",
+        "userId": "XEqOYXlxrXaHhENr12XzEgEUUBm1"
+      }
+    },
+    "2025-04-22": {
+      "1745309142473": {
+        "items": [
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1745309142473,
+        "total": 40,
+        "userEmail": "23co75@aitdgoa.edu.in",
+        "userId": "rCDPoWwNAOhd1566LIw1CJmC3UI2"
+      },
+      "1745324234429": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1745324234429,
+        "total": 50,
+        "userEmail": "adminsensei@gmail.com",
+        "userId": "7Gk9WEhlFPa2jMLs5FOLakqXVKC2"
+      }
+    },
+    "2025-04-23": {
+      "1745373994516": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1745373994516,
+        "total": 50,
+        "userEmail": "dzoldan529@gmail.com",
+        "userId": "HCFRRGXoWnSD3khrKXnp3IYPnPu1"
+      },
+      "1745373999652": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1745373999652,
+        "total": 30,
+        "userEmail": "dzoldan529@gmail.com",
+        "userId": "HCFRRGXoWnSD3khrKXnp3IYPnPu1"
+      },
+      "1745401725941": {
+        "items": [
+          {
+            "id": "-OLZJXGL1AGOvSYTY-6j",
+            "price": 120,
+            "quantity": 3
+          }
+        ],
+        "timestamp": 1745401725941,
+        "total": 360,
+        "userEmail": "nalaksh1122@gmail.com",
+        "userId": "XEqOYXlxrXaHhENr12XzEgEUUBm1"
+      },
+      "1745401734987": {
+        "items": [
+          {
+            "id": "-OLZGIrGFxTQ2zb-BByc",
+            "price": 129,
+            "quantity": 3
+          }
+        ],
+        "timestamp": 1745401734988,
+        "total": 387,
+        "userEmail": "nalaksh1122@gmail.com",
+        "userId": "XEqOYXlxrXaHhENr12XzEgEUUBm1"
+      },
+      "1745401755338": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1745401755338,
+        "total": 60,
+        "userEmail": "nalaksh1122@gmail.com",
+        "userId": "XEqOYXlxrXaHhENr12XzEgEUUBm1"
+      },
+      "1745401760132": {
+        "items": [
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1745401760132,
+        "total": 40,
+        "userEmail": "nalaksh1122@gmail.com",
+        "userId": "XEqOYXlxrXaHhENr12XzEgEUUBm1"
+      },
+      "1745401776403": {
+        "items": [
+          {
+            "id": 6,
+            "price": 25,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1745401776403,
+        "total": 50,
+        "userEmail": "nalaksh1122@gmail.com",
+        "userId": "XEqOYXlxrXaHhENr12XzEgEUUBm1"
+      },
+      "1745402168037": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1745402168037,
+        "total": 30,
+        "userEmail": "awasvikasvinita@gmail.com",
+        "userId": "bIfcC2cDplVFaAJSbpVLuYCKZjf1"
+      },
+      "1745402186736": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1745402186736,
+        "total": 30,
+        "userEmail": "awasvikasvinita@gmail.com",
+        "userId": "bIfcC2cDplVFaAJSbpVLuYCKZjf1"
+      },
+      "1745402199999": {
+        "items": [
+          {
+            "id": 5,
+            "price": 10,
+            "quantity": 9
+          }
+        ],
+        "timestamp": 1745402199999,
+        "total": 90,
+        "userEmail": "awasvikasvinita@gmail.com",
+        "userId": "bIfcC2cDplVFaAJSbpVLuYCKZjf1"
+      },
+      "1745420631426": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          },
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          },
+          {
+            "id": 7,
+            "price": 100,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1745420631426,
+        "total": 180,
+        "userEmail": "kadamarya1010@gmail.com",
+        "userId": "1CMhz6vguGVGuQnqRWYTeuOSq2i2"
+      }
+    },
+    "2025-04-25": {
+      "1745566302601": {
+        "items": [
+          {
+            "id": 10,
+            "price": 40,
+            "quantity": 6
+          }
+        ],
+        "timestamp": 1745566302601,
+        "total": 240,
+        "userEmail": "africa@gmail.com",
+        "userId": "GPleSHghrUfTlFDrFYAEYfrf41l1"
+      }
+    },
+    "2025-04-26": {
+      "1745650217492": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1745650217493,
+        "total": 60,
+        "userEmail": "xyz@gmail.com",
+        "userId": "cz7rhq65QEbekoS519X3AiOY5qn2"
+      },
+      "1745650229315": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1745650229315,
+        "total": 60,
+        "userEmail": "xyz@gmail.com",
+        "userId": "cz7rhq65QEbekoS519X3AiOY5qn2"
+      }
+    },
+    "2025-04-27": {
+      "1745743599295": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 3
+          }
+        ],
+        "timestamp": 1745743599295,
+        "total": 90,
+        "userEmail": "kaankur370122@kkwagh.edu.in",
+        "userId": "Xi3VydilK5VJc9m7GOinxQ0VyG93"
+      },
+      "1745743639018": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 4
+          }
+        ],
+        "timestamp": 1745743639018,
+        "total": 240,
+        "userEmail": "kaankur370122@kkwagh.edu.in",
+        "userId": "Xi3VydilK5VJc9m7GOinxQ0VyG93"
+      },
+      "1745748823676": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 3
+          }
+        ],
+        "timestamp": 1745748823676,
+        "total": 90,
+        "userEmail": "ablohakare370623@kkwagh.edu.in",
+        "userId": "TJgfHy6inGRI7yPWc6MU1g1oFAD2"
+      },
+      "1745775914293": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1745775914293,
+        "total": 60,
+        "userEmail": "ablohakare370623@kkwagh.edu.in",
+        "userId": "TJgfHy6inGRI7yPWc6MU1g1oFAD2"
+      }
+    },
+    "2025-04-28": {
+      "1745821827717": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 3
+          }
+        ],
+        "timestamp": 1745821827717,
+        "total": 90,
+        "userEmail": "ablohakare370623@kkwagh.edu.in",
+        "userId": "TJgfHy6inGRI7yPWc6MU1g1oFAD2"
+      },
+      "1745831305711": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 2
+          },
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 3
+          }
+        ],
+        "timestamp": 1745831305711,
+        "total": 240,
+        "userEmail": "ablohakare370623@kkwagh.edu.in",
+        "userId": "TJgfHy6inGRI7yPWc6MU1g1oFAD2"
+      },
+      "1745834551353": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 4
+          }
+        ],
+        "timestamp": 1745834551353,
+        "total": 120,
+        "userEmail": "test2@gmail.com",
+        "userId": "v4j1udyMtuMkHjn0ycOnk0h9UQT2"
+      }
+    },
+    "2025-04-29": {
+      "1745908772795": {
+        "items": [
+          {
+            "id": "-OLZJDgopUjCUZ91SqwW",
+            "price": 160,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1745908772795,
+        "total": 160,
+        "userEmail": "admin@gmail.com",
+        "userId": "6wZUBiF5PzX4XqY9wD1yX7BE9702"
+      },
+      "1745909269414": {
+        "items": [
+          {
+            "id": 11,
+            "price": 50,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1745909269414,
+        "total": 100,
+        "userEmail": "admin12345@gmail.com",
+        "userId": "klgL6CwenyPtf1k1BltSS39VyEh2"
+      },
+      "1745909336581": {
+        "items": [
+          {
+            "id": 6,
+            "price": 25,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1745909336581,
+        "total": 25,
+        "userEmail": "admin12345@gmail.com",
+        "userId": "klgL6CwenyPtf1k1BltSS39VyEh2"
+      },
+      "1745909351955": {
+        "items": [
+          {
+            "id": 9,
+            "price": 60,
+            "quantity": 4
+          }
+        ],
+        "timestamp": 1745909351955,
+        "total": 240,
+        "userEmail": "admin12345@gmail.com",
+        "userId": "klgL6CwenyPtf1k1BltSS39VyEh2"
+      },
+      "1745911280837": {
+        "items": [
+          {
+            "id": "-OAGA4GYoa7p4Ft06RaO",
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1745911280837,
+        "total": 60,
+        "userEmail": "charanakonda95@gmail.com",
+        "userId": "9vlYJNY34yb0wkT0gICBshASvWh1"
+      },
+      "1745911298326": {
+        "items": [
+          {
+            "id": 7,
+            "price": 100,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1745911298326,
+        "total": 100,
+        "userEmail": "charanakonda95@gmail.com",
+        "userId": "9vlYJNY34yb0wkT0gICBshASvWh1"
+      },
+      "1745918062808": {
+        "items": [
+          {
+            "id": 7,
+            "price": 100,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1745918062808,
+        "total": 100,
+        "userEmail": "test9998@gmail.com",
+        "userId": "MgYm9ckgvvW292lmhM5dJb1ch7r1"
+      },
+      "1745921879994": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1745921879994,
+        "total": 60,
+        "userEmail": "bmgfjtgrjgg@gmail.com",
+        "userId": "XRHEdXNEUmRoMgLPTlLthuWQuny2"
+      }
+    },
+    "2025-05-01": {
+      "1746075882437": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1746075882437,
+        "total": 60,
+        "userEmail": "roshansahx2003@gmail.com",
+        "userId": "lHr5BDR5rZblzys5aqThZ5HfsuJ2"
+      },
+      "1746081277439": {
+        "timestamp": 1746081277439,
+        "total": 0,
+        "userEmail": "prabodhkr0@gmail.com",
+        "userId": "EptYxzeQjOVQsjjfe40EBTZPGVC2"
+      },
+      "1746081284056": {
+        "items": [
+          {
+            "id": "-OLZJXGL1AGOvSYTY-6j",
+            "price": 120,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1746081284056,
+        "total": 120,
+        "userEmail": "prabodhkr0@gmail.com",
+        "userId": "EptYxzeQjOVQsjjfe40EBTZPGVC2"
+      },
+      "1746081582490": {
+        "items": [
+          {
+            "id": 6,
+            "price": 25,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1746081582490,
+        "total": 25,
+        "userEmail": "prabodhkr0@gmail.com",
+        "userId": "EptYxzeQjOVQsjjfe40EBTZPGVC2"
+      },
+      "1746083232009": {
+        "items": [
+          {
+            "id": "-OA5y2YjA_IFXLQVRRxA",
+            "price": 120,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1746083232009,
+        "total": 120,
+        "userEmail": "prabodhkr0@gmail.com",
+        "userId": "EptYxzeQjOVQsjjfe40EBTZPGVC2"
+      },
+      "1746084527331": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1746084527331,
+        "total": 60,
+        "userEmail": "prabodhkr0@gmail.com",
+        "userId": "EptYxzeQjOVQsjjfe40EBTZPGVC2"
+      },
+      "1746084530955": {
+        "items": [
+          {
+            "id": 7,
+            "price": 100,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1746084530955,
+        "total": 100,
+        "userEmail": "prabodhkr0@gmail.com",
+        "userId": "EptYxzeQjOVQsjjfe40EBTZPGVC2"
+      },
+      "1746084540377": {
+        "items": [
+          {
+            "id": 11,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1746084540377,
+        "total": 50,
+        "userEmail": "prabodhkr0@gmail.com",
+        "userId": "EptYxzeQjOVQsjjfe40EBTZPGVC2"
+      },
+      "1746084542959": {
+        "items": [
+          {
+            "id": "-OAGA4GYoa7p4Ft06RaO",
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1746084542959,
+        "total": 60,
+        "userEmail": "prabodhkr0@gmail.com",
+        "userId": "EptYxzeQjOVQsjjfe40EBTZPGVC2"
+      },
+      "1746084996387": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          },
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1746084996387,
+        "total": 80,
+        "userEmail": "prabodhkr0@gmail.com",
+        "userId": "EptYxzeQjOVQsjjfe40EBTZPGVC2"
+      },
+      "1746118568285": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1746118568285,
+        "total": 120,
+        "userEmail": "mohdrazashaikh133@gmail.com",
+        "userId": "xl6eoQk4D4gaY0bnzYjAn7zcXR73"
+      }
+    },
+    "2025-05-06": {
+      "1746511855055": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1746511855055,
+        "total": 50,
+        "userEmail": "deetika6@gmail.com",
+        "userId": "nKeoCLcj3TVXUOYfnnCSmpmrBvI3"
+      }
+    },
+    "2025-05-07": {
+      "1746638349011": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1746638349011,
+        "total": 50,
+        "userEmail": "ramanchauhan1297@gmail.com",
+        "userId": "24E5Onk8kdVpCDtaEFd78gUW4eX2"
+      }
+    },
+    "2025-05-09": {
+      "1746777721581": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1746777721581,
+        "total": 30,
+        "userEmail": "yash@gmail.com",
+        "userId": "DlxR0rgdlqX6FcvqizAhTTc55Yk1"
+      },
+      "1746794222007": {
+        "items": [
+          {
+            "id": 6,
+            "price": 25,
+            "quantity": 1
+          },
+          {
+            "id": 7,
+            "price": 100,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1746794222007,
+        "total": 125,
+        "userEmail": "user@gmail.com",
+        "userId": "0NBmErHGWTYtavgo3tyTTj0PjbF3"
+      }
+    },
+    "2025-05-11": {
+      "1746965948530": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1746965948530,
+        "total": 100,
+        "userEmail": "samarthsaurav31@gmail.com",
+        "userId": "joBt7fKXQxcBBYAizR95Lngjsdi1"
+      },
+      "1746965992174": {
+        "items": [
+          {
+            "id": 7,
+            "price": 100,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1746965992175,
+        "total": 100,
+        "userEmail": "samarthsaurav31@gmail.com",
+        "userId": "joBt7fKXQxcBBYAizR95Lngjsdi1"
+      },
+      "1746966063488": {
+        "items": [
+          {
+            "id": "-OLZGIrGFxTQ2zb-BByc",
+            "price": 129,
+            "quantity": 1
+          },
+          {
+            "id": "-OLZJXGL1AGOvSYTY-6j",
+            "price": 120,
+            "quantity": 3
+          }
+        ],
+        "timestamp": 1746966063488,
+        "total": 489,
+        "userEmail": "samarthsaurav31@gmail.com",
+        "userId": "joBt7fKXQxcBBYAizR95Lngjsdi1"
+      },
+      "1746969578988": {
+        "items": [
+          {
+            "id": "-OLZJXGL1AGOvSYTY-6j",
+            "price": 120,
+            "quantity": 2
+          },
+          {
+            "id": "-OLZJDgopUjCUZ91SqwW",
+            "price": 160,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1746969578988,
+        "total": 560,
+        "userEmail": "upadhayaysaksham21@gmail.com",
+        "userId": "PKU2wu1yZ1TJM49NvYAfaBSN3Bc2"
+      },
+      "1746969641762": {
+        "items": [
+          {
+            "id": "-OLZKHMySZwFZ4k8KNXD",
+            "price": 90,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1746969641762,
+        "total": 180,
+        "userEmail": "upadhayaysaksham21@gmail.com",
+        "userId": "PKU2wu1yZ1TJM49NvYAfaBSN3Bc2"
+      },
+      "1746990021420": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 3
+          }
+        ],
+        "timestamp": 1746990021420,
+        "total": 150,
+        "userEmail": "upadhayaysaksham21@gmail.com",
+        "userId": "PKU2wu1yZ1TJM49NvYAfaBSN3Bc2"
+      },
+      "1746990293956": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1746990293956,
+        "total": 100,
+        "userEmail": "admin@college.edu",
+        "userId": "8HgdN2gxjyYf9u52JNHTIv3aHe13"
+      }
+    },
+    "2025-05-12": {
+      "1747025848479": {
+        "items": [
+          {
+            "id": "-OLZJDgopUjCUZ91SqwW",
+            "price": 160,
+            "quantity": 2
+          },
+          {
+            "id": "-OLZGIrGFxTQ2zb-BByc",
+            "price": 129,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1747025848479,
+        "total": 449,
+        "userEmail": "admin@college.edu",
+        "userId": "8HgdN2gxjyYf9u52JNHTIv3aHe13"
+      },
+      "1747027369449": {
+        "items": [
+          {
+            "id": 10,
+            "price": 40,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1747027369449,
+        "total": 80,
+        "userEmail": "bsandeepraj2004@gmail.com",
+        "userId": "sBYZBamsusdzAG94RGofOyuWXSm1"
+      },
+      "1747028734354": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 3
+          },
+          {
+            "id": 7,
+            "price": 100,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1747028734354,
+        "total": 250,
+        "userEmail": "admin@college.edu",
+        "userId": "8HgdN2gxjyYf9u52JNHTIv3aHe13"
+      },
+      "1747031386259": {
+        "items": [
+          {
+            "id": "-OA5xP9VkogkHu4my2gr",
+            "price": 100,
+            "quantity": 2
+          },
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          },
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 2
+          },
+          {
+            "id": 8,
+            "price": 45,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1747031386259,
+        "total": 365,
+        "userEmail": "admin@college.edu",
+        "userId": "8HgdN2gxjyYf9u52JNHTIv3aHe13"
+      },
+      "1747046409442": {
+        "items": [
+          {
+            "id": 10,
+            "price": 40,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1747046409442,
+        "total": 40,
+        "userEmail": "vsraut1234@gmail.com",
+        "userId": "ewcJldLUdDgpkWAsbBMS7GU9zOy2"
+      },
+      "1747046411719": {
+        "items": [
+          {
+            "id": 6,
+            "price": 25,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1747046411719,
+        "total": 25,
+        "userEmail": "vsraut1234@gmail.com",
+        "userId": "ewcJldLUdDgpkWAsbBMS7GU9zOy2"
+      },
+      "1747066067070": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1747066067070,
+        "total": 60,
+        "userEmail": "kbfdbfdbfkl@gmail.com",
+        "userId": "ezL9H99wO8Q44v8Ep8JYl8uMnT02"
+      },
+      "1747069816779": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1747069816780,
+        "total": 50,
+        "userEmail": "221b195@juetguna.in",
+        "userId": "aJl1Id8jUqMwY29pQF3xuNpGzGA3"
+      },
+      "1747069927668": {
+        "items": [
+          {
+            "id": "-OA5xP9VkogkHu4my2gr",
+            "price": 100,
+            "quantity": 1
+          },
+          {
+            "id": "-OAGBRyZATifqYwj5h4L",
+            "price": 60,
+            "quantity": 1
+          },
+          {
+            "id": "-OLZJXGL1AGOvSYTY-6j",
+            "price": 120,
+            "quantity": 1
+          },
+          {
+            "id": "-OLZGIrGFxTQ2zb-BByc",
+            "price": 129,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1747069927668,
+        "total": 409,
+        "userEmail": "221b195@juetguna.in",
+        "userId": "aJl1Id8jUqMwY29pQF3xuNpGzGA3"
+      }
+    },
+    "2025-05-13": {
+      "1747107335290": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1747107335290,
+        "total": 50,
+        "userEmail": "221b195@juetguna.in",
+        "userId": "aJl1Id8jUqMwY29pQF3xuNpGzGA3"
+      },
+      "1747136399583": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 3
+          },
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1747136399583,
+        "total": 180,
+        "userEmail": "mugesh@mail.com",
+        "userId": "d5qvN8Eb4kbu9YrczNbisuc1dZn2"
+      },
+      "1747136914294": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 3
+          }
+        ],
+        "timestamp": 1747136914295,
+        "total": 90,
+        "userEmail": "mugesh@mail.com",
+        "userId": "d5qvN8Eb4kbu9YrczNbisuc1dZn2"
+      },
+      "1747155673363": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 2
+          },
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1747155673363,
+        "total": 120,
+        "userEmail": "ignisace09@gmail.com",
+        "userId": "G7SGzmW5UsN0nYqxVxNRbgaYI963"
+      }
+    },
+    "2025-05-14": {
+      "1747189533283": {
+        "items": [
+          {
+            "id": 5,
+            "price": 10,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1747189533283,
+        "total": 20,
+        "userEmail": "navcoding16@gmail.com",
+        "userId": "jU5T3FTY1MS0SRvoMrDufJGla3Z2"
+      },
+      "1747189591543": {
+        "items": [
+          {
+            "id": 12,
+            "price": 60,
+            "quantity": 6
+          }
+        ],
+        "timestamp": 1747189591543,
+        "total": 360,
+        "userEmail": "navcoding16@gmail.com",
+        "userId": "jU5T3FTY1MS0SRvoMrDufJGla3Z2"
+      }
+    },
+    "2025-05-15": {
+      "1747329998123": {
+        "items": [
+          {
+            "id": 7,
+            "price": 100,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1747329998123,
+        "total": 200,
+        "userEmail": "chinmaybopalkar@gmail.com",
+        "userId": "wHzeRUokcIQFjYEcFB3i5B85qiG3"
+      }
+    },
+    "2025-05-17": {
+      "1747473323683": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1747473323683,
+        "total": 50,
+        "userEmail": "gvvhjj@gmail.com",
+        "userId": "wQHF1Ts8PwTwfO5K6498kO3Fpcr2"
+      },
+      "1747473332149": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 4
+          }
+        ],
+        "timestamp": 1747473332149,
+        "total": 120,
+        "userEmail": "gvvhjj@gmail.com",
+        "userId": "wQHF1Ts8PwTwfO5K6498kO3Fpcr2"
+      },
+      "1747482211519": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          },
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          },
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1747482211519,
+        "total": 140,
+        "userEmail": "watsekelvin@gmail.com",
+        "userId": "Xitz2sX1DrN2R6RJjH4mLEEU37y2"
+      }
+    },
+    "2025-05-18": {
+      "1747590352211": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1747590352211,
+        "total": 30,
+        "userEmail": "krmanu2804@gmail.com",
+        "userId": "Z7IJETXEAAdEyQIgn5cDhSkIZQr2"
+      }
+    },
+    "2025-05-19": {
+      "1747688053378": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1747688053378,
+        "total": 30,
+        "userEmail": "sreejaminny@gmail.com",
+        "userId": "XvpytjIemiaaN1CFffxFPD2rWp12"
+      }
+    },
+    "2025-05-20": {
+      "1747762899464": {
+        "items": [
+          {
+            "id": "-OLZJXGL1AGOvSYTY-6j",
+            "price": 120,
+            "quantity": 5
+          }
+        ],
+        "timestamp": 1747762899464,
+        "total": 600,
+        "userEmail": "logo@gmail.com",
+        "userId": "kb4T2OYSj6cn3ZwBzKiYHAbpFyG3"
+      },
+      "1747765300276": {
+        "items": [
+          {
+            "id": "-OLZJXGL1AGOvSYTY-6j",
+            "price": 120,
+            "quantity": 3
+          }
+        ],
+        "timestamp": 1747765300276,
+        "total": 360,
+        "userEmail": "logo@gmail.com",
+        "userId": "kb4T2OYSj6cn3ZwBzKiYHAbpFyG3"
+      }
+    },
+    "2025-05-21": {
+      "1747831995563": {
+        "items": [
+          {
+            "id": "-OA5y2YjA_IFXLQVRRxA",
+            "price": 120,
+            "quantity": 1
+          },
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1747831995563,
+        "total": 150,
+        "userEmail": "adimin@gmail.com",
+        "userId": "aEIlrFiGTJd4M8sTYhDt40L1NoS2"
+      }
+    },
+    "2025-05-22": {
+      "1747894383445": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1747894383445,
+        "total": 30,
+        "userEmail": "adminaitd@gmail.com",
+        "userId": "VwpiTkR1UjgaxonKgG9QkH9euWj2"
+      },
+      "1747894552223": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1747894552223,
+        "total": 30,
+        "userEmail": "adminaitd@gmail.com",
+        "userId": "VwpiTkR1UjgaxonKgG9QkH9euWj2"
+      },
+      "1747894986819": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1747894986819,
+        "total": 60,
+        "userEmail": "adminaitd@gmail.com",
+        "userId": "VwpiTkR1UjgaxonKgG9QkH9euWj2"
+      },
+      "1747896357751": {
+        "items": [
+          {
+            "id": 7,
+            "price": 100,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1747896357751,
+        "total": 100,
+        "userEmail": "adminaitd@gmail.com",
+        "userId": "VwpiTkR1UjgaxonKgG9QkH9euWj2"
+      },
+      "1747897363665": {
+        "items": [
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1747897363665,
+        "total": 40,
+        "userEmail": "adminaitd@gmail.com",
+        "userId": "VwpiTkR1UjgaxonKgG9QkH9euWj2"
+      },
+      "1747897657022": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1747897657022,
+        "total": 30,
+        "userEmail": "jvevhv@gmail.com",
+        "userId": "edC2eOIlObWQh2EnXvkIlNKd46s2"
+      },
+      "1747898672768": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1747898672768,
+        "total": 120,
+        "userEmail": "adminaitd@gmail.com",
+        "userId": "VwpiTkR1UjgaxonKgG9QkH9euWj2"
+      },
+      "1747902492410": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1747902492410,
+        "total": 30,
+        "userEmail": "adminaitd@gmail.com",
+        "userId": "VwpiTkR1UjgaxonKgG9QkH9euWj2"
+      },
+      "1747906219656": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1747906219656,
+        "total": 30,
+        "userEmail": "adminaitd@gmail.com",
+        "userId": "VwpiTkR1UjgaxonKgG9QkH9euWj2"
+      },
+      "1747929894402": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1747929894402,
+        "total": 50,
+        "userEmail": "twinklestar.9742@gmail.com",
+        "userId": "zcxBARr68wVFWDIuiRNVQ6ddHzr1"
+      },
+      "1747935768195": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 2
+          },
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1747935768195,
+        "total": 160,
+        "userEmail": "upadhyaysaksham21@gmail.com",
+        "userId": "s5DAOXxx3INOqYfaBwTbaTJwJxH2"
+      },
+      "1747935886992": {
+        "items": [
+          {
+            "id": 10,
+            "price": 40,
+            "quantity": 2
+          },
+          {
+            "id": 9,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1747935886992,
+        "total": 140,
+        "userEmail": "suhaskarnam08@gmail.com",
+        "userId": "vyqWBS2cmvTlCZpceelXFDRdNsy1"
+      },
+      "1747941328076": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 2
+          },
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1747941328076,
+        "total": 160,
+        "userEmail": "davidebula642@gmail.com",
+        "userId": "PLXE6qwS3fPZG3Fptc8KZHE45qu1"
+      }
+    },
+    "2025-05-23": {
+      "1747977720483": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          },
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          },
+          {
+            "id": 8,
+            "price": 45,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1747977720483,
+        "total": 135,
+        "userEmail": "kiranhabbu90@gmail.com",
+        "userId": "ITm0oAPSZLWnQk0iwUhAFnURjzp2"
+      },
+      "1747979857642": {
+        "items": [
+          {
+            "id": 5,
+            "price": 10,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1747979857643,
+        "total": 10,
+        "userEmail": "kiranhabbu90@gmail.com",
+        "userId": "ITm0oAPSZLWnQk0iwUhAFnURjzp2"
+      }
+    },
+    "2025-05-25": {
+      "1748182840328": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 5
+          }
+        ],
+        "timestamp": 1748182840328,
+        "total": 250,
+        "userEmail": "test123123@gmail.com",
+        "userId": "1lbMgZLd6hMtXyDAjgDiAPIGjeE2"
+      }
+    },
+    "2025-05-27": {
+      "1748321711327": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1748321711327,
+        "total": 60,
+        "userEmail": "kicoma8020@leabro.com",
+        "userId": "tqA9HcHw4rWsQ4b9qNTVKUJfvGX2"
+      },
+      "1748338177052": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1748338177052,
+        "total": 30,
+        "userEmail": "thunderhawk01@gmail.com",
+        "userId": "9izzM7E1dvaUm64Yqaw8qdGo3FE2"
+      },
+      "1748338199859": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1748338199860,
+        "total": 30,
+        "userEmail": "thunderhawk01@gmail.com",
+        "userId": "9izzM7E1dvaUm64Yqaw8qdGo3FE2"
+      }
+    },
+    "2025-05-28": {
+      "1748445910974": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 5
+          }
+        ],
+        "timestamp": 1748445910974,
+        "total": 250,
+        "userEmail": "divyag432004@gmail.com",
+        "userId": "YNiafSLxcee3r5xia2geFTLS6xg1"
+      },
+      "1748446110173": {
+        "items": [
+          {
+            "id": "-OA5y2YjA_IFXLQVRRxA",
+            "price": 120,
+            "quantity": 2
+          },
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 16
+          }
+        ],
+        "timestamp": 1748446110173,
+        "total": 1200,
+        "userEmail": "divyag432004@gmail.com",
+        "userId": "YNiafSLxcee3r5xia2geFTLS6xg1"
+      }
+    },
+    "2025-05-29": {
+      "1748530879109": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          },
+          {
+            "id": 9,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1748530879109,
+        "total": 110,
+        "userEmail": "daneshwarism503@gmail.com",
+        "userId": "jYoF6ys3UPOtmFWKBM5Stjm8llV2"
+      },
+      "1748532746253": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1748532746253,
+        "total": 30,
+        "userEmail": "karandhana2004@gmail.com",
+        "userId": "gKVguVko0hVKyx4v8LCD94h6O5R2"
+      }
+    },
+    "2025-06-02": {
+      "1748842728385": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 6
+          }
+        ],
+        "timestamp": 1748842728385,
+        "total": 300,
+        "userEmail": "ps21@gmail.com",
+        "userId": "MdCvbSeQeneCM4JenLIqSsm4rJn2"
+      },
+      "1748842908471": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 2
+          },
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1748842908471,
+        "total": 140,
+        "userEmail": "admin@college.edu",
+        "userId": "8HgdN2gxjyYf9u52JNHTIv3aHe13"
+      }
+    },
+    "2025-06-07": {
+      "1749317621633": {
+        "items": [
+          {
+            "id": 8,
+            "price": 45,
+            "quantity": 3
+          }
+        ],
+        "timestamp": 1749317621633,
+        "total": 135,
+        "userEmail": "rohitsingh123@gmail.com",
+        "userId": "37k2l86SgsM72QzHt0PtjW81ktu1"
+      },
+      "1749317636749": {
+        "items": [
+          {
+            "id": 7,
+            "price": 100,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1749317636749,
+        "total": 200,
+        "userEmail": "rohitsingh123@gmail.com",
+        "userId": "37k2l86SgsM72QzHt0PtjW81ktu1"
+      },
+      "1749317644682": {
+        "items": [
+          {
+            "id": 9,
+            "price": 60,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1749317644682,
+        "total": 120,
+        "userEmail": "rohitsingh123@gmail.com",
+        "userId": "37k2l86SgsM72QzHt0PtjW81ktu1"
+      }
+    },
+    "2025-06-08": {
+      "1749388150614": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1749388150614,
+        "total": 50,
+        "userEmail": "wigoy96388@2mik.com",
+        "userId": "iXb2wVksrXgpGUZFeTkf6afSYNn2"
+      },
+      "1749389070086": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1749389070086,
+        "total": 30,
+        "userEmail": "wigoy96388@2mik.com",
+        "userId": "iXb2wVksrXgpGUZFeTkf6afSYNn2"
+      }
+    },
+    "2025-06-09": {
+      "1749469299594": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          },
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          },
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1749469299594,
+        "total": 110,
+        "userEmail": "krutibasdwibedi786@gmail.com",
+        "userId": "NncvcxHvKgWUMwU1KtM23VG4Ys62"
+      }
+    },
+    "2025-06-11": {
+      "1749623592801": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 2
+          },
+          {
+            "id": 7,
+            "price": 100,
+            "quantity": 1
+          },
+          {
+            "id": 8,
+            "price": 45,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1749623592801,
+        "total": 205,
+        "userEmail": "kdobro@gmail.com",
+        "userId": "rPc6Z4tUPoaiWJnRdo99J4fJ8Bg1"
+      },
+      "1749666764663": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          },
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          },
+          {
+            "id": 7,
+            "price": 100,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1749666764663,
+        "total": 190,
+        "userEmail": "abdellatif99.tahiri@gmail.com",
+        "userId": "ZwxiC6oSXUYoy9Vvcanm5aXG4t52"
+      }
+    },
+    "2025-06-16": {
+      "1750069828292": {
+        "items": [
+          {
+            "id": "-OLZKHMySZwFZ4k8KNXD",
+            "price": 90,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1750069828292,
+        "total": 90,
+        "userEmail": "test@test.com",
+        "userId": "8QiNVdxFo7YOJjShrcquem2RA8G3"
+      }
+    },
+    "2025-06-20": {
+      "1750438835365": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1750438835365,
+        "total": 30,
+        "userEmail": "1234@gmail.com",
+        "userId": "gjLwSWZwoyQqRR9BN7QImRXq45F2"
+      },
+      "1750440434271": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1750440434271,
+        "total": 30,
+        "userEmail": "1234@gmail.com",
+        "userId": "gjLwSWZwoyQqRR9BN7QImRXq45F2"
+      }
+    },
+    "2025-06-21": {
+      "1750505120292": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1750505120292,
+        "total": 60,
+        "userEmail": "22sbiwe1012@aquinassl.onmicrosoft.com",
+        "userId": "6KemBuWyi8QzLJAsANMWGczJKXH3"
+      }
+    },
+    "2025-06-22": {
+      "1750556542776": {
+        "items": [
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1750556542776,
+        "total": 20,
+        "userEmail": "blueissky995@gmail.com",
+        "userId": "OZ3YO56vIKhost4or9QnfcOyuAm1"
+      }
+    },
+    "2025-06-23": {
+      "1750661803942": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 5
+          }
+        ],
+        "timestamp": 1750661803942,
+        "total": 300,
+        "userEmail": "ambika.isfinformatica@gmail.com",
+        "userId": "zKNqTDll5BP0pynXEoiQqiinZDh1"
+      },
+      "1750662777472": {
+        "items": [
+          {
+            "id": 7,
+            "price": 100,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1750662777472,
+        "total": 100,
+        "userEmail": "ambika.isfinformatica@gmail.com",
+        "userId": "zKNqTDll5BP0pynXEoiQqiinZDh1"
+      },
+      "1750675099817": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          },
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          },
+          {
+            "id": 5,
+            "price": 10,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1750675099817,
+        "total": 90,
+        "userEmail": "mohantsk381@gmail.com",
+        "userId": "wKvl0TuXUZWPIpvu5qQ0Cz3UU0L2"
+      },
+      "1750684733965": {
+        "timestamp": 1750684733965,
+        "total": 0,
+        "userEmail": "mohantsk381@gmail.com",
+        "userId": "wKvl0TuXUZWPIpvu5qQ0Cz3UU0L2"
+      },
+      "1750686049137": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1750686049137,
+        "total": 60,
+        "userEmail": "mohantsk381@gmail.com",
+        "userId": "wKvl0TuXUZWPIpvu5qQ0Cz3UU0L2"
+      },
+      "1750687044712": {
+        "items": [
+          {
+            "id": 11,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1750687044712,
+        "total": 50,
+        "userEmail": "mohantsk381@gmail.com",
+        "userId": "wKvl0TuXUZWPIpvu5qQ0Cz3UU0L2"
+      },
+      "1750687050436": {
+        "items": [
+          {
+            "id": 11,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1750687050436,
+        "total": 50,
+        "userEmail": "mohantsk381@gmail.com",
+        "userId": "wKvl0TuXUZWPIpvu5qQ0Cz3UU0L2"
+      },
+      "1750694303068": {
+        "items": [
+          {
+            "id": "-OLZKHMySZwFZ4k8KNXD",
+            "price": 90,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1750694303068,
+        "total": 90,
+        "userEmail": "mohantsk481@gmail.com",
+        "userId": "P3E2dGFgy9dBbz3gzDgy5c4fzlC2"
+      },
+      "1750694500594": {
+        "items": [
+          {
+            "id": 8,
+            "name": "Burger",
+            "price": 45,
+            "quantity": 1
+          }
+        ],
+        "status": "Pending",
+        "timestamp": 1750694500595,
+        "totalAmount": 45,
+        "userEmail": "mohantsk481@gmail.com",
+        "userId": "P3E2dGFgy9dBbz3gzDgy5c4fzlC2"
+      },
+      "1750694991478": {
+        "items": [
+          {
+            "id": 12,
+            "name": "White Sauce Pasta",
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "orderDate": "2025-06-23",
+        "status": "Pending",
+        "timestamp": 1750694991479,
+        "totalAmount": 60,
+        "userEmail": "mohantsk481@gmail.com",
+        "userId": "P3E2dGFgy9dBbz3gzDgy5c4fzlC2"
+      },
+      "1750694992759": {
+        "items": [
+          {
+            "id": 12,
+            "name": "White Sauce Pasta",
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "orderDate": "2025-06-23",
+        "status": "Pending",
+        "timestamp": 1750694992759,
+        "totalAmount": 60,
+        "userEmail": "mohantsk481@gmail.com",
+        "userId": "P3E2dGFgy9dBbz3gzDgy5c4fzlC2"
+      },
+      "1750695179724": {
+        "items": [
+          {
+            "id": "-OLZKHMySZwFZ4k8KNXD",
+            "name": "Veg Darjeeling Steam Momo",
+            "price": 90,
+            "quantity": 1
+          }
+        ],
+        "orderDate": "2025-06-23",
+        "status": "Pending",
+        "timestamp": 1750695179724,
+        "totalAmount": 90,
+        "userEmail": "mohantsk481@gmail.com",
+        "userId": "P3E2dGFgy9dBbz3gzDgy5c4fzlC2"
+      },
+      "1750695849864": {
+        "items": [
+          {
+            "id": "-OLZKHMySZwFZ4k8KNXD",
+            "name": "Veg Darjeeling Steam Momo",
+            "price": 90,
+            "quantity": 1
+          }
+        ],
+        "orderDate": "2025-06-23",
+        "status": "Pending",
+        "timestamp": 1750695849864,
+        "totalAmount": 90,
+        "userEmail": "mohantsk481@gmail.com",
+        "userId": "P3E2dGFgy9dBbz3gzDgy5c4fzlC2"
+      },
+      "1750697142744": {
+        "items": [
+          {
+            "id": "-OLZKHMySZwFZ4k8KNXD",
+            "name": "Veg Darjeeling Steam Momo",
+            "price": 90,
+            "quantity": 1
+          }
+        ],
+        "orderDate": "2025-06-23",
+        "status": "Pending",
+        "timestamp": 1750697142744,
+        "totalAmount": 90,
+        "userEmail": "mohantsk481@gmail.com",
+        "userId": "P3E2dGFgy9dBbz3gzDgy5c4fzlC2"
+      },
+      "1750701984118": {
+        "items": [
+          {
+            "id": "-OLZJXGL1AGOvSYTY-6j",
+            "price": 120,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1750701984118,
+        "total": 120,
+        "userEmail": "mohantsk381@gmail.com",
+        "userId": "wKvl0TuXUZWPIpvu5qQ0Cz3UU0L2"
+      },
+      "1750703429586": {
+        "items": [
+          {
+            "id": 6,
+            "price": 25,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1750703429586,
+        "total": 25,
+        "userEmail": "mohantsk481@gmail.com",
+        "userId": "P3E2dGFgy9dBbz3gzDgy5c4fzlC2"
+      },
+      "1750705573255": {
+        "items": [
+          {
+            "id": "-OLZGIrGFxTQ2zb-BByc",
+            "price": 129,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1750705573255,
+        "total": 129,
+        "userEmail": "mohantsk481@gmail.com",
+        "userId": "P3E2dGFgy9dBbz3gzDgy5c4fzlC2"
+      },
+      "1750708148122": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1750708148122,
+        "total": 60,
+        "userEmail": "mohantsk481@gmail.com",
+        "userId": "P3E2dGFgy9dBbz3gzDgy5c4fzlC2"
+      },
+      "1750708961297": {
+        "items": [
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1750708961297,
+        "total": 20,
+        "userEmail": "mohantsk481@gmail.com",
+        "userId": "P3E2dGFgy9dBbz3gzDgy5c4fzlC2"
+      },
+      "1750709133888": {
+        "items": [
+          {
+            "id": 7,
+            "price": 100,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1750709133888,
+        "total": 100,
+        "userEmail": "mohantsk481@gmail.com",
+        "userId": "P3E2dGFgy9dBbz3gzDgy5c4fzlC2"
+      },
+      "1750709636496": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1750709636496,
+        "total": 60,
+        "userEmail": "mohantsk481@gmail.com",
+        "userId": "P3E2dGFgy9dBbz3gzDgy5c4fzlC2"
+      },
+      "1750709926363": {
+        "items": [
+          {
+            "id": "-OLZJXGL1AGOvSYTY-6j",
+            "price": 120,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1750709926363,
+        "total": 120,
+        "userEmail": "mohantsk481@gmail.com",
+        "userId": "P3E2dGFgy9dBbz3gzDgy5c4fzlC2"
+      },
+      "1750710071543": {
+        "items": [
+          {
+            "id": "-OAGA4GYoa7p4Ft06RaO",
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1750710071543,
+        "total": 60,
+        "userEmail": "mohantsk481@gmail.com",
+        "userId": "P3E2dGFgy9dBbz3gzDgy5c4fzlC2"
+      },
+      "1750710228605": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1750710228605,
+        "total": 60,
+        "userEmail": "mohantsk481@gmail.com",
+        "userId": "P3E2dGFgy9dBbz3gzDgy5c4fzlC2"
+      },
+      "1750712921116": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1750712921116,
+        "total": 120,
+        "userEmail": "mohantsk381@gmail.com",
+        "userId": "wKvl0TuXUZWPIpvu5qQ0Cz3UU0L2"
+      },
+      "1750713084366": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1750713084366,
+        "total": 60,
+        "userEmail": "mohantsk381@gmail.com",
+        "userId": "wKvl0TuXUZWPIpvu5qQ0Cz3UU0L2"
+      },
+      "1750713097089": {
+        "items": [
+          {
+            "id": "-OLZJXGL1AGOvSYTY-6j",
+            "price": 120,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1750713097089,
+        "total": 120,
+        "userEmail": "mohantsk381@gmail.com",
+        "userId": "wKvl0TuXUZWPIpvu5qQ0Cz3UU0L2"
+      },
+      "1750713368862": {
+        "items": [
+          {
+            "id": 11,
+            "price": 50,
+            "quantity": 1
+          },
+          {
+            "id": 7,
+            "price": 100,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1750713368862,
+        "total": 150,
+        "userEmail": "mohantsk381@gmail.com",
+        "userId": "wKvl0TuXUZWPIpvu5qQ0Cz3UU0L2"
+      },
+      "1750713523634": {
+        "items": [
+          {
+            "id": "-OAGA4GYoa7p4Ft06RaO",
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1750713523634,
+        "total": 60,
+        "userEmail": "mohantsk381@gmail.com",
+        "userId": "wKvl0TuXUZWPIpvu5qQ0Cz3UU0L2"
+      },
+      "ORD1750710701756": {
+        "items": [
+          {
+            "description": "Crispy golden pooris served with a flavorful potato filling.",
+            "id": "-OAGA4GYoa7p4Ft06RaO",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ojryfl20dtffpqbo7fsk",
+            "initialPrices": 40,
+            "name": "Poori Aloo",
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "paymentMethod": "upi",
+        "status": "completed",
+        "total": 60,
+        "userEmail": "mohantsk481@gmail.com"
+      },
+      "ORD1750711262452": {
+        "items": [
+          {
+            "description": "Serves 1 | Veg Sweet Corn Soup: A sweet corn soup with vegetables.",
+            "id": "-OLZJXGL1AGOvSYTY-6j",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/7/20/a72a084a-7477-4fbf-b61b-ae3811f09922_671b962b-43f5-4b3c-b997-e065058d7661.jpg",
+            "initialPrices": 90,
+            "name": "Veg Sweet Corn Soup",
+            "price": 120,
+            "quantity": 1
+          }
+        ],
+        "paymentMethod": "upi",
+        "status": "completed",
+        "total": 120,
+        "userEmail": "mohantsk481@gmail.com"
+      },
+      "ORD1750711323488": {
+        "items": [
+          {
+            "description": "Crispy golden pooris served with a flavorful potato filling.",
+            "id": "-OAGA4GYoa7p4Ft06RaO",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ojryfl20dtffpqbo7fsk",
+            "initialPrices": 40,
+            "name": "Poori Aloo",
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "paymentMethod": "upi",
+        "status": "completed",
+        "total": 60,
+        "userEmail": "mohantsk481@gmail.com"
+      }
+    },
+    "2025-06-24": {
+      "1750737179017": {
+        "items": [
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1750737179017,
+        "total": 20,
+        "userEmail": "mohantsk481@gmail.com",
+        "userId": "P3E2dGFgy9dBbz3gzDgy5c4fzlC2"
+      },
+      "1750737338317": {
+        "items": [
+          {
+            "id": "-OAGBRyZATifqYwj5h4L",
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1750737338317,
+        "total": 60,
+        "userEmail": "mohantsk481@gmail.com",
+        "userId": "P3E2dGFgy9dBbz3gzDgy5c4fzlC2"
+      },
+      "1750738848837": {
+        "items": [
+          {
+            "id": 11,
+            "price": 50,
+            "quantity": 1
+          },
+          {
+            "id": 5,
+            "price": 10,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1750738848837,
+        "total": 60,
+        "userEmail": "mohantsk481@gmail.com",
+        "userId": "P3E2dGFgy9dBbz3gzDgy5c4fzlC2"
+      }
+    },
+    "2025-06-28": {
+      "1751084951821": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1751084951821,
+        "total": 60,
+        "userEmail": "abc@gmail.com",
+        "userId": "rm7ykNmtiCeD6A9XYRNp5Uxp8Q53"
+      }
+    },
+    "2025-06-30": {
+      "1751274402009": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1751274402009,
+        "total": 120,
+        "userEmail": "xevevak450@asimarif.com",
+        "userId": "KVlVVP4gUrbFjYHiQKKKhS2Rcgd2"
+      },
+      "1751274443100": {
+        "items": [
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 6
+          },
+          {
+            "id": 6,
+            "price": 25,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1751274443100,
+        "total": 145,
+        "userEmail": "xevevak450@asimarif.com",
+        "userId": "KVlVVP4gUrbFjYHiQKKKhS2Rcgd2"
+      }
+    },
+    "2025-07-02": {
+      "1751424825467": {
+        "items": [
+          {
+            "id": 5,
+            "price": 10,
+            "quantity": 4
+          }
+        ],
+        "timestamp": 1751424825467,
+        "total": 40,
+        "userEmail": "truong12345@gmail.com",
+        "userId": "EGqRZfEvgldTfIcxbPdBenYH0hh1"
+      },
+      "1751425291322": {
+        "items": [
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 4
+          }
+        ],
+        "timestamp": 1751425291322,
+        "total": 80,
+        "userEmail": "truong12345@gmail.com",
+        "userId": "EGqRZfEvgldTfIcxbPdBenYH0hh1"
+      }
+    },
+    "2025-07-04": {
+      "1751626113290": {
+        "items": [
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1751626113290,
+        "total": 20,
+        "userEmail": "cacow98276@fenexy.com",
+        "userId": "pfr8F7qscWZ4yG6Wrd3RoSe5df53"
+      }
+    },
+    "2025-07-05": {
+      "1751686246103": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1751686246103,
+        "total": 50,
+        "userEmail": "vahsir87@gmail.com",
+        "userId": "ZeWDZYuLPOQE2sT1M1F3iEOrpDn1"
+      },
+      "1751701412963": {
+        "items": [
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1751701412963,
+        "total": 20,
+        "userEmail": "corexes307@dxirl.com",
+        "userId": "XARX887thyYWdijELUWIlar55uB2"
+      }
+    },
+    "2025-07-25": {
+      "1753453165919": {
+        "items": [
+          {
+            "id": 8,
+            "price": 45,
+            "quantity": 1
+          },
+          {
+            "id": 9,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1753453165919,
+        "total": 105,
+        "userEmail": "krishna9559407012@gmail.com",
+        "userId": "zwON2oBPv9SOgCKgGhOXwW5NgTW2"
+      },
+      "1753453775521": {
+        "items": [
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          },
+          {
+            "id": 5,
+            "price": 10,
+            "quantity": 1
+          },
+          {
+            "id": 6,
+            "price": 25,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1753453775521,
+        "total": 55,
+        "userEmail": "krishna9559407012@gmail.com",
+        "userId": "zwON2oBPv9SOgCKgGhOXwW5NgTW2"
+      },
+      "1753454658487": {
+        "items": [
+          {
+            "id": 5,
+            "price": 10,
+            "quantity": 1
+          },
+          {
+            "id": 6,
+            "price": 25,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1753454658487,
+        "total": 35,
+        "userEmail": "krishna9559407012@gmail.com",
+        "userId": "zwON2oBPv9SOgCKgGhOXwW5NgTW2"
+      },
+      "1753455500933": {
+        "items": [
+          {
+            "id": "-OLZKHMySZwFZ4k8KNXD",
+            "price": 90,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1753455500933,
+        "total": 90,
+        "userEmail": "krishna9559407012@gmail.com",
+        "userId": "zwON2oBPv9SOgCKgGhOXwW5NgTW2"
+      }
+    },
+    "2025-07-26": {
+      "1753557703760": {
+        "items": [
+          {
+            "id": 5,
+            "price": 10,
+            "quantity": 2
+          },
+          {
+            "id": 6,
+            "price": 25,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1753557703760,
+        "total": 45,
+        "userEmail": "krishna9559407012@gmail.com",
+        "userId": "zwON2oBPv9SOgCKgGhOXwW5NgTW2"
+      }
+    },
+    "2025-07-29": {
+      "1753764318426": {
+        "items": [
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          },
+          {
+            "id": 5,
+            "price": 10,
+            "quantity": 1
+          },
+          {
+            "id": 6,
+            "price": 25,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1753764318426,
+        "total": 55,
+        "userEmail": "krishna9559407012@gmail.com",
+        "userId": "zwON2oBPv9SOgCKgGhOXwW5NgTW2"
+      },
+      "1753765660441": {
+        "items": [
+          {
+            "id": 5,
+            "price": 10,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1753765660441,
+        "total": 10,
+        "userEmail": "krishna9559407012@gmail.com",
+        "userId": "zwON2oBPv9SOgCKgGhOXwW5NgTW2"
+      },
+      "1753776261945": {
+        "items": [
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1753776261945,
+        "total": 20,
+        "userEmail": "krishna9559407012@gmail.com",
+        "userId": "zwON2oBPv9SOgCKgGhOXwW5NgTW2"
+      }
+    },
+    "2025-07-30": {
+      "1753862111323": {
+        "items": [
+          {
+            "id": 9,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1753862111323,
+        "total": 60,
+        "userEmail": "udaysalve89@gmail.com",
+        "userId": "IXjCsyKqgmRMPuvN1OWjcOOQFFz1"
+      }
+    },
+    "2025-07-31": {
+      "1753979306338": {
+        "items": [
+          {
+            "id": 5,
+            "price": 10,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1753979306338,
+        "total": 10,
+        "userEmail": "krishna9559407012@gmail.com",
+        "userId": "zwON2oBPv9SOgCKgGhOXwW5NgTW2"
+      }
+    },
+    "2025-08-03": {
+      "1754240014856": {
+        "items": [
+          {
+            "id": 7,
+            "price": 100,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1754240014856,
+        "total": 100,
+        "userEmail": "rockjatin0748@gmail.com",
+        "userId": "SHBoBgkz0jhidazueGRLzx13LRk1"
+      },
+      "1754241401969": {
+        "items": [
+          {
+            "id": 7,
+            "price": 100,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1754241401969,
+        "total": 200,
+        "userEmail": "sharma99shivang@gmail.com",
+        "userId": "4XmNbnU2tDg2nIOCs7ZEEak28jx2"
+      },
+      "1754241429195": {
+        "timestamp": 1754241429195,
+        "total": 0,
+        "userEmail": "sharma99shivang@gmail.com",
+        "userId": "4XmNbnU2tDg2nIOCs7ZEEak28jx2"
+      },
+      "1754241429225": {
+        "timestamp": 1754241429225,
+        "total": 0,
+        "userEmail": "sharma99shivang@gmail.com",
+        "userId": "4XmNbnU2tDg2nIOCs7ZEEak28jx2"
+      }
+    },
+    "2025-08-05": {
+      "1754357783694": {
+        "items": [
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 5
+          }
+        ],
+        "timestamp": 1754357783694,
+        "total": 100,
+        "userEmail": "kittu8441@gmail.com",
+        "userId": "tmWZyb0cCxe5DwHStSZfqdu9bZW2"
+      },
+      "1754367584195": {
+        "items": [
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          },
+          {
+            "id": 6,
+            "price": 25,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1754367584195,
+        "total": 45,
+        "userEmail": "sgbuddy2003@gmail.com",
+        "userId": "tZpGGYbilZNY3WG1sbTYMkbnG3s2"
+      },
+      "1754370075112": {
+        "items": [
+          {
+            "id": 5,
+            "price": 10,
+            "quantity": 3
+          }
+        ],
+        "timestamp": 1754370075112,
+        "total": 30,
+        "userEmail": "kittu8441@gmail.com",
+        "userId": "tmWZyb0cCxe5DwHStSZfqdu9bZW2"
+      }
+    },
+    "2025-08-08": {
+      "1754630100847": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1754630100847,
+        "total": 100,
+        "userEmail": "manumanu12@gmail.com",
+        "userId": "OcZT36Fmb4NqGicmfMVTN4wwuyv1"
+      }
+    },
+    "2025-08-11": {
+      "1754888406742": {
+        "items": [
+          {
+            "id": 5,
+            "price": 10,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1754888406742,
+        "total": 10,
+        "userEmail": "jayantchawla29@gmail.com",
+        "userId": "YRAyI2Nd7NeXFq9PpBgF35gVDQE3"
+      }
+    },
+    "2025-08-12": {
+      "1754972960778": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1754972960778,
+        "total": 60,
+        "userEmail": "abcde@gmail.com",
+        "userId": "M0CpKpBmKkaCqrFavCRmHXsbva82"
+      }
+    },
+    "2025-08-15": {
+      "1755264612311": {
+        "items": [
+          {
+            "id": "-OA5xP9VkogkHu4my2gr",
+            "price": 100,
+            "quantity": 4
+          }
+        ],
+        "timestamp": 1755264612311,
+        "total": 400,
+        "userEmail": "shellytewatia19@gmail.com",
+        "userId": "F5FkTA8eLWOeaI6mlH1KPCU3mfv1"
+      },
+      "1755264828034": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1755264828034,
+        "total": 60,
+        "userEmail": "navcoding16@gmail.com",
+        "userId": "jU5T3FTY1MS0SRvoMrDufJGla3Z2"
+      }
+    },
+    "2025-08-18": {
+      "1755521279279": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1755521279279,
+        "total": 30,
+        "userEmail": "patil.1@gmail.com",
+        "userId": "pEEOwzJqXqYtXYAQ3bW50J2Uhl13"
+      }
+    },
+    "2025-08-20": {
+      "1755683897434": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1755683897434,
+        "total": 50,
+        "userEmail": "qwerty@gmail.com",
+        "userId": "GrXLLLGmJaSdlt1vp008yovXMzD3"
+      },
+      "1755684358424": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          },
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 3
+          },
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 2
+          },
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1755684358424,
+        "total": 280,
+        "userEmail": "qwerty@gmail.com",
+        "userId": "GrXLLLGmJaSdlt1vp008yovXMzD3"
+      }
+    },
+    "2025-08-21": {
+      "1755755280345": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          },
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1755755280345,
+        "total": 80,
+        "userEmail": "user1@gmail.com",
+        "userId": "hyCBVDx2z3Wb6qtCXDL2UacAhTD2"
+      },
+      "1755755315180": {
+        "items": [
+          {
+            "id": 6,
+            "price": 25,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1755755315180,
+        "total": 25,
+        "userEmail": "user1@gmail.com",
+        "userId": "hyCBVDx2z3Wb6qtCXDL2UacAhTD2"
+      },
+      "1755758907700": {
+        "timestamp": 1755758907700,
+        "total": 0,
+        "userEmail": "eishabilal42@gmail.com",
+        "userId": "6b7u4JHpnSXCIygP38IslyozHkE3"
+      },
+      "1755758925317": {
+        "items": [
+          {
+            "id": 7,
+            "price": 100,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1755758925317,
+        "total": 100,
+        "userEmail": "eishabilal42@gmail.com",
+        "userId": "6b7u4JHpnSXCIygP38IslyozHkE3"
+      }
+    },
+    "2025-08-22": {
+      "1755843434055": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 4
+          }
+        ],
+        "timestamp": 1755843434055,
+        "total": 200,
+        "userEmail": "test@abc.com",
+        "userId": "8EJyepa4COVundKlHlNEAsj2RmW2"
+      },
+      "1755872143407": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 3
+          }
+        ],
+        "timestamp": 1755872143407,
+        "total": 90,
+        "userEmail": "ahishedirisinghe175@gmail.com",
+        "userId": "VIgbieqvYXRVmi6ct69mIYtol1I3"
+      }
+    },
+    "2025-08-24": {
+      "1756031586193": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1756031586193,
+        "total": 30,
+        "userEmail": "eisha@gmail.com",
+        "userId": "ryBuwUUfR3gSMRi6HrUhgIDBvfJ3"
+      }
+    },
+    "2025-08-26": {
+      "1756191611290": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1756191611290,
+        "total": 50,
+        "userEmail": "1a@gmail.com",
+        "userId": "IRBjA7to2QOhgkLNj66Los21z4i1"
+      },
+      "1756192399720": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1756192399720,
+        "total": 50,
+        "userEmail": "1a@gmail.com",
+        "userId": "IRBjA7to2QOhgkLNj66Los21z4i1"
+      },
+      "1756192402213": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1756192402213,
+        "total": 30,
+        "userEmail": "1a@gmail.com",
+        "userId": "IRBjA7to2QOhgkLNj66Los21z4i1"
+      },
+      "1756243405380": {
+        "items": [
+          {
+            "id": "-OLZJXGL1AGOvSYTY-6j",
+            "price": 120,
+            "quantity": 1
+          },
+          {
+            "id": 8,
+            "price": 45,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1756243405380,
+        "total": 165,
+        "userEmail": "ita@gmail.com",
+        "userId": "z8cdwpxfplP9fsOf6ZokrfJ0EOE2"
+      }
+    },
+    "2025-08-31": {
+      "1756671765640": {
+        "items": [
+          {
+            "id": 6,
+            "price": 25,
+            "quantity": 1
+          },
+          {
+            "id": 7,
+            "price": 100,
+            "quantity": 1
+          },
+          {
+            "id": 8,
+            "price": 45,
+            "quantity": 1
+          },
+          {
+            "id": 11,
+            "price": 50,
+            "quantity": 1
+          },
+          {
+            "id": "-OLZJXGL1AGOvSYTY-6j",
+            "price": 120,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1756671765640,
+        "total": 340,
+        "userEmail": "amohaiman22@gmail.com",
+        "userId": "v1PyQ2qVmbRqG3N660KHE4zztbH3"
+      }
+    },
+    "2025-09-03": {
+      "1756901604765": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1756901604765,
+        "total": 50,
+        "userEmail": "it@hariarotaryhospital.com",
+        "userId": "cPnRbAZb8DdH10pdspNeazMDCyU2"
+      },
+      "1756901629620": {
+        "items": [
+          {
+            "id": "-OAGA4GYoa7p4Ft06RaO",
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1756901629620,
+        "total": 60,
+        "userEmail": "it@hariarotaryhospital.com",
+        "userId": "cPnRbAZb8DdH10pdspNeazMDCyU2"
+      }
+    },
+    "2025-09-04": {
+      "1757027183514": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1757027183514,
+        "total": 50,
+        "userEmail": "admin@test.cz",
+        "userId": "1W4i0en7S7PzCGDKQtEQKGuY0Jf2"
+      }
+    },
+    "2025-09-07": {
+      "1757243382669": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1757243382669,
+        "total": 60,
+        "userEmail": "preethamn159@gmail.com",
+        "userId": "M40VmXDEsCfWmg3t7zOd3gfdMQJ3"
+      },
+      "1757243412278": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1757243412278,
+        "total": 30,
+        "userEmail": "preethamn159@gmail.com",
+        "userId": "M40VmXDEsCfWmg3t7zOd3gfdMQJ3"
+      },
+      "1757243497268": {
+        "items": [
+          {
+            "id": "-OAGA4GYoa7p4Ft06RaO",
+            "price": 60,
+            "quantity": 3
+          }
+        ],
+        "timestamp": 1757243497268,
+        "total": 180,
+        "userEmail": "preethamn159@gmail.com",
+        "userId": "M40VmXDEsCfWmg3t7zOd3gfdMQJ3"
+      },
+      "1757254417230": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1757254417230,
+        "total": 60,
+        "userEmail": "ss@gmail.com",
+        "userId": "5K117vz1WMdQUyI7JYKcQ2QOfx02"
+      },
+      "1757254498877": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          },
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          },
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1757254498877,
+        "total": 100,
+        "userEmail": "ss@gmail.com",
+        "userId": "5K117vz1WMdQUyI7JYKcQ2QOfx02"
+      }
+    },
+    "2025-09-09": {
+      "1757439555658": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1757439555658,
+        "total": 50,
+        "userEmail": "avneesh149m@gmail.com",
+        "userId": "3tNtjLdFYOOW8pVfYqwV8Xd3zw72"
+      },
+      "1757439626953": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          },
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          },
+          {
+            "id": 6,
+            "price": 25,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1757439626953,
+        "total": 115,
+        "userEmail": "avneesh149m@gmail.com",
+        "userId": "3tNtjLdFYOOW8pVfYqwV8Xd3zw72"
+      }
+    },
+    "2025-09-10": {
+      "1757505780786": {
+        "items": [
+          {
+            "id": "-OLZJXGL1AGOvSYTY-6j",
+            "price": 120,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1757505780786,
+        "total": 120,
+        "userEmail": "mihesoklem@gmail.com",
+        "userId": "TNX86877IZPHIGUKAf4XAcYur7W2"
+      }
+    },
+    "2025-09-11": {
+      "1757603996490": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          },
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1757603996490,
+        "total": 80,
+        "userEmail": "krishna9559407012@gmail.com",
+        "userId": "zwON2oBPv9SOgCKgGhOXwW5NgTW2"
+      },
+      "1757607261185": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 2
+          },
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1757607261185,
+        "total": 140,
+        "userEmail": "zenishpatel2004@gmail.com",
+        "userId": "M14ZevhDZFRuYLqw1liTfuFX5tH2"
+      }
+    },
+    "2025-09-12": {
+      "1757672468792": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1757672468792,
+        "total": 50,
+        "userEmail": "suba@gmail.com",
+        "userId": "7lRX9ztkNEMUVdJTowN5o3mpC7n2"
+      }
+    },
+    "2025-09-15": {
+      "1757918917632": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          },
+          {
+            "id": "-OLZKHMySZwFZ4k8KNXD",
+            "price": 90,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1757918917632,
+        "total": 140,
+        "userEmail": "adityabhosdi@gmail.com",
+        "userId": "ybPzeD8X73YpGpgjq3iy0MskZSq1"
+      },
+      "1757928627327": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1757928627327,
+        "total": 60,
+        "userEmail": "asmitsrivastava@gmail.com",
+        "userId": "sffkpf41QLhNRTW3Z0awNlSW0ML2"
+      },
+      "1757928775708": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 2
+          },
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1757928775708,
+        "total": 140,
+        "userEmail": "asmitsrivastava@gmail.com",
+        "userId": "sffkpf41QLhNRTW3Z0awNlSW0ML2"
+      },
+      "1757931017963": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1757931017963,
+        "total": 60,
+        "userEmail": "adityabhosdi@gmail.com",
+        "userId": "ybPzeD8X73YpGpgjq3iy0MskZSq1"
+      }
+    },
+    "2025-09-16": {
+      "1758000222692": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1758000222692,
+        "total": 60,
+        "userEmail": "rajp13102007@gmail.com",
+        "userId": "HTb9JEYMN5QHHAEvPxXYKYFtw7I3"
+      }
+    },
+    "2025-09-21": {
+      "1758457655846": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1758457655846,
+        "total": 30,
+        "userEmail": "kasthalanithishkumar3@gmail.com",
+        "userId": "J1OIU4fQ5jTOfHoNSHtalNaofjo1"
+      },
+      "1758457660751": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1758457660751,
+        "total": 60,
+        "userEmail": "kasthalanithishkumar3@gmail.com",
+        "userId": "J1OIU4fQ5jTOfHoNSHtalNaofjo1"
+      }
+    },
+    "2025-09-25": {
+      "1758772498020": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1758772498020,
+        "total": 30,
+        "userEmail": "nhockrong@gamil.com",
+        "userId": "lB82hd4BkVT3JxX6sLw6ruh116O2"
+      },
+      "1758772507778": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1758772507778,
+        "total": 60,
+        "userEmail": "nhockrong@gamil.com",
+        "userId": "lB82hd4BkVT3JxX6sLw6ruh116O2"
+      }
+    },
+    "2025-09-28": {
+      "1759052115817": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1759052115817,
+        "total": 100,
+        "userEmail": "q@gmail.com",
+        "userId": "kraVNo5aPLcbIZVcQEM8A4JORf92"
+      }
+    },
+    "2025-09-30": {
+      "1759210116888": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          },
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          },
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1759210116888,
+        "total": 140,
+        "userEmail": "prachikashyap7582@gmail.com",
+        "userId": "fP2yyTZqR6PvHJ8ay3lgK9X8S7y2"
+      },
+      "1759210129396": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1759210129396,
+        "total": 30,
+        "userEmail": "prachikashyap7582@gmail.com",
+        "userId": "fP2yyTZqR6PvHJ8ay3lgK9X8S7y2"
+      }
+    },
+    "2025-10-01": {
+      "1759295319774": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1759295319774,
+        "total": 50,
+        "userEmail": "vishvakannan004@gmail.com",
+        "userId": "EuSZ24wI3uMkr78itXYXfMQOIaN2"
+      }
+    },
+    "2025-10-02": {
+      "1759383557715": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1759383557715,
+        "total": 100,
+        "userEmail": "vishwaskannam1@gmail.com",
+        "userId": "YPZ2Zs6yhph0AO78as4KPCWg5sg2"
+      },
+      "1759383596220": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          },
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1759383596220,
+        "total": 80,
+        "userEmail": "vishwaskannam1@gmail.com",
+        "userId": "YPZ2Zs6yhph0AO78as4KPCWg5sg2"
+      }
+    },
+    "2025-10-09": {
+      "1759983210490": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1759983210490,
+        "total": 60,
+        "userEmail": "adminsensei@gmail.com",
+        "userId": "7Gk9WEhlFPa2jMLs5FOLakqXVKC2"
+      }
+    },
+    "2025-10-25": {
+      "1761388090096": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1761388090097,
+        "total": 60,
+        "userEmail": "adminsensei@gmail.com",
+        "userId": "7Gk9WEhlFPa2jMLs5FOLakqXVKC2"
+      },
+      "1761388747558": {
+        "items": [
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1761388747558,
+        "total": 20,
+        "userEmail": "admin@manage.com",
+        "userId": "YIs6cQGByxRrGgcWkAkPGykINbD2"
+      },
+      "1761388826274": {
+        "items": [
+          {
+            "id": "-OAGA4GYoa7p4Ft06RaO",
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1761388826274,
+        "total": 60,
+        "userEmail": "admin@manage.com",
+        "userId": "YIs6cQGByxRrGgcWkAkPGykINbD2"
+      }
+    },
+    "2025-10-27": {
+      "1761539860934": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1761539860934,
+        "total": 60,
+        "userEmail": "hello@gmail.com",
+        "userId": "xLgQT1DvQsMhZWHYpTYu0wDrNA03"
+      },
+      "1761545534236": {
+        "items": [
+          {
+            "id": "-OAGA4GYoa7p4Ft06RaO",
+            "price": 60,
+            "quantity": 3
+          }
+        ],
+        "timestamp": 1761545534236,
+        "total": 180,
+        "userEmail": "aakash784233@gmail.com",
+        "userId": "vmRNouGMoUbvYGx3IsjaCKcHLjS2"
+      },
+      "1761545594831": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          },
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1761545594831,
+        "total": 90,
+        "userEmail": "aakash784233@gmail.com",
+        "userId": "vmRNouGMoUbvYGx3IsjaCKcHLjS2"
+      },
+      "1761545682416": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 4
+          }
+        ],
+        "timestamp": 1761545682416,
+        "total": 120,
+        "userEmail": "aakash784233@gmail.com",
+        "userId": "vmRNouGMoUbvYGx3IsjaCKcHLjS2"
+      },
+      "1761545768488": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1761545768489,
+        "total": 50,
+        "userEmail": "aakash784233@gmail.com",
+        "userId": "vmRNouGMoUbvYGx3IsjaCKcHLjS2"
+      },
+      "1761545782631": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1761545782631,
+        "total": 50,
+        "userEmail": "aakash784233@gmail.com",
+        "userId": "vmRNouGMoUbvYGx3IsjaCKcHLjS2"
+      },
+      "1761545810806": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1761545810806,
+        "total": 50,
+        "userEmail": "aakash784233@gmail.com",
+        "userId": "vmRNouGMoUbvYGx3IsjaCKcHLjS2"
+      },
+      "1761545834528": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 2
+          },
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1761545834528,
+        "total": 130,
+        "userEmail": "aakash784233@gmail.com",
+        "userId": "vmRNouGMoUbvYGx3IsjaCKcHLjS2"
+      }
+    },
+    "2025-10-28": {
+      "1761643457562": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1761643457562,
+        "total": 30,
+        "userEmail": "test1@gmail.com",
+        "userId": "XQZIqBBzGTXdf3byvMINqMyYZiI2"
+      }
+    },
+    "2025-10-30": {
+      "1761817652169": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1761817652169,
+        "total": 50,
+        "userEmail": "demo@gmail.com",
+        "userId": "rLukiEr3ItbcP1s3jZ3VLwxrDos2"
+      },
+      "1761836572347": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 3
+          }
+        ],
+        "timestamp": 1761836572347,
+        "total": 90,
+        "userEmail": "akashudayraj.in@gmail.com",
+        "userId": "xiUuqS26zcYqvh8WlKSM5V5rYmn1"
+      },
+      "1761836622176": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 3
+          },
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 2
+          },
+          {
+            "id": 8,
+            "price": 45,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1761836622176,
+        "total": 235,
+        "userEmail": "akashudayraj.in@gmail.com",
+        "userId": "xiUuqS26zcYqvh8WlKSM5V5rYmn1"
+      }
+    },
+    "2025-11-01": {
+      "1761971280651": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1761971280651,
+        "total": 100,
+        "userEmail": "something@gmail.com",
+        "userId": "bq3y83JVftPqm9f2EnMd7E6H16l2"
+      },
+      "1761971309015": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1761971309015,
+        "total": 60,
+        "userEmail": "something@gmail.com",
+        "userId": "bq3y83JVftPqm9f2EnMd7E6H16l2"
+      }
+    },
+    "2025-11-02": {
+      "1762059283850": {
+        "items": [
+          {
+            "id": "-OLZJXGL1AGOvSYTY-6j",
+            "price": 120,
+            "quantity": 4
+          }
+        ],
+        "timestamp": 1762059283850,
+        "total": 480,
+        "userEmail": "dummyuser@example.com",
+        "userId": "qQTUulgO20WMnqf6qc7J7azcOyP2"
+      },
+      "1762105520520": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1762105520520,
+        "total": 60,
+        "userEmail": "krishna9559407012@gmail.com",
+        "userId": "zwON2oBPv9SOgCKgGhOXwW5NgTW2"
+      },
+      "1762107227324": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          },
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1762107227325,
+        "total": 80,
+        "userEmail": "anujbajpai54t@gmail.com",
+        "userId": "2zQA5Y32RpZl6yznkPZRX7l8fQC3"
+      }
+    },
+    "2025-11-03": {
+      "1762141684816": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          },
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1762141684817,
+        "total": 80,
+        "userEmail": "anujbajpai54t@gmail.com",
+        "userId": "2zQA5Y32RpZl6yznkPZRX7l8fQC3"
+      },
+      "1762143018111": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1762143018111,
+        "total": 50,
+        "userEmail": "krishna9559407012@gmail.com",
+        "userId": "zwON2oBPv9SOgCKgGhOXwW5NgTW2"
+      },
+      "1762150114696": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1762150114696,
+        "total": 50,
+        "userEmail": "glaniltauro060@gmail.com",
+        "userId": "Mh0CfbYC0Xb19JKIdCpKpiulQfw2"
+      }
+    },
+    "2025-11-04": {
+      "1762232632023": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1762232632023,
+        "total": 30,
+        "userEmail": "test123456789@gmail.com",
+        "userId": "rxyAPCIgKfftG7a1niyGxMa149l1"
+      },
+      "1762232713196": {
+        "items": [
+          {
+            "id": "-OLZKHMySZwFZ4k8KNXD",
+            "price": 90,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1762232713196,
+        "total": 90,
+        "userEmail": "test123456789@gmail.com",
+        "userId": "rxyAPCIgKfftG7a1niyGxMa149l1"
+      },
+      "1762232727708": {
+        "items": [
+          {
+            "id": "-OLZKHMySZwFZ4k8KNXD",
+            "price": 90,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1762232727708,
+        "total": 90,
+        "userEmail": "test123456789@gmail.com",
+        "userId": "rxyAPCIgKfftG7a1niyGxMa149l1"
+      }
+    },
+    "2025-11-05": {
+      "1762338650740": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          },
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1762338650740,
+        "total": 80,
+        "userEmail": "memate2586@burangir.com",
+        "userId": "CmLWKL0UUGUMHd5pMoLvFmIE9bj1"
+      }
+    },
+    "2025-11-06": {
+      "1762406016233": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          },
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1762406016233,
+        "total": 80,
+        "userEmail": "adminsensei@gmail.com",
+        "userId": "7Gk9WEhlFPa2jMLs5FOLakqXVKC2"
+      },
+      "1762410538998": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          },
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          },
+          {
+            "id": 7,
+            "price": 100,
+            "quantity": 1
+          },
+          {
+            "id": 11,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1762410538999,
+        "total": 230,
+        "userEmail": "anujbajpai54t@gmail.com",
+        "userId": "2zQA5Y32RpZl6yznkPZRX7l8fQC3"
+      },
+      "1762428606240": {
+        "items": [
+          {
+            "id": "-OAGA4GYoa7p4Ft06RaO",
+            "price": 60,
+            "quantity": 4
+          }
+        ],
+        "timestamp": 1762428606241,
+        "total": 240,
+        "userEmail": "piufc@gmail.com",
+        "userId": "Xp9cRbU8FsSGpHq7VRSFBHU5mHI2"
+      }
+    },
+    "2025-11-08": {
+      "1762624017314": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1762624017314,
+        "total": 60,
+        "userEmail": "aswinradhakrishnan78@gmail.com",
+        "userId": "mJcs5xhdLFaQgkC7cqMI0tQCmD72"
+      }
+    },
+    "2025-11-10": {
+      "1762794003126": {
+        "items": [
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 4
+          }
+        ],
+        "timestamp": 1762794003126,
+        "total": 80,
+        "userEmail": "manibharathi642@gmail.com",
+        "userId": "PUt4LHyZQJhTUgY4XXrc195cV8C3"
+      }
+    },
+    "2025-11-14": {
+      "1763144714347": {
+        "items": [
+          {
+            "id": "-OLZJXGL1AGOvSYTY-6j",
+            "price": 120,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1763144714347,
+        "total": 120,
+        "userEmail": "akhilsripuram18@gmail.com",
+        "userId": "9I5JVuFjWsMcJ353huJUgyqhORy2"
+      },
+      "1763144741685": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          },
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          },
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1763144741686,
+        "total": 140,
+        "userEmail": "akhilsripuram18@gmail.com",
+        "userId": "9I5JVuFjWsMcJ353huJUgyqhORy2"
+      }
+    },
+    "2025-11-16": {
+      "1763286084406": {
+        "items": [
+          {
+            "id": "-OLZJDgopUjCUZ91SqwW",
+            "price": 160,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1763286084406,
+        "total": 160,
+        "userEmail": "hashirkhan15432@gmail.com",
+        "userId": "Hgi39tV5BvY5L5zeRtKLSpTptx32"
+      },
+      "1763286098691": {
+        "items": [
+          {
+            "id": 7,
+            "price": 100,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1763286098691,
+        "total": 100,
+        "userEmail": "hashirkhan15432@gmail.com",
+        "userId": "Hgi39tV5BvY5L5zeRtKLSpTptx32"
+      }
+    },
+    "2025-11-18": {
+      "1763481575275": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1763481575275,
+        "total": 50,
+        "userEmail": "ssv.4thyear@gmail.com",
+        "userId": "apYbRsDaawb9ODkkfqatzneK8ri1"
+      },
+      "1763481583031": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1763481583031,
+        "total": 30,
+        "userEmail": "ssv.4thyear@gmail.com",
+        "userId": "apYbRsDaawb9ODkkfqatzneK8ri1"
+      },
+      "1763481585250": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1763481585250,
+        "total": 30,
+        "userEmail": "ssv.4thyear@gmail.com",
+        "userId": "apYbRsDaawb9ODkkfqatzneK8ri1"
+      },
+      "1763481587496": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1763481587496,
+        "total": 60,
+        "userEmail": "ssv.4thyear@gmail.com",
+        "userId": "apYbRsDaawb9ODkkfqatzneK8ri1"
+      },
+      "1763481589744": {
+        "items": [
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1763481589744,
+        "total": 20,
+        "userEmail": "ssv.4thyear@gmail.com",
+        "userId": "apYbRsDaawb9ODkkfqatzneK8ri1"
+      }
+    },
+    "2025-11-19": {
+      "1763569492482": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1763569492483,
+        "total": 50,
+        "userEmail": "hhh@gmail.com",
+        "userId": "QHy44BT3vvb8L04ZjQwcTUwOM8E3"
+      }
+    },
+    "2025-11-21": {
+      "1763725144602": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1763725144602,
+        "total": 50,
+        "userEmail": "a@gmail.com",
+        "userId": "jDRZpgYWXlTYn3pe0CDlxdpkkrV2"
+      },
+      "1763725171964": {
+        "timestamp": 1763725171964,
+        "total": 0,
+        "userEmail": "a@gmail.com",
+        "userId": "jDRZpgYWXlTYn3pe0CDlxdpkkrV2"
+      },
+      "1763725180531": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1763725180531,
+        "total": 60,
+        "userEmail": "a@gmail.com",
+        "userId": "jDRZpgYWXlTYn3pe0CDlxdpkkrV2"
+      },
+      "1763726369544": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 3
+          }
+        ],
+        "timestamp": 1763726369544,
+        "total": 180,
+        "userEmail": "a@gmail.com",
+        "userId": "jDRZpgYWXlTYn3pe0CDlxdpkkrV2"
+      }
+    },
+    "2025-11-24": {
+      "1764017204866": {
+        "items": [
+          {
+            "id": "-OLZGIrGFxTQ2zb-BByc",
+            "price": 129,
+            "quantity": 4
+          }
+        ],
+        "timestamp": 1764017204867,
+        "total": 516,
+        "userEmail": "fakek8731@gmail.com",
+        "userId": "Tp0ob4cpgsTjusQxHGwAzCBIEWF3"
+      }
+    },
+    "2025-11-25": {
+      "1764045937690": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 6
+          }
+        ],
+        "timestamp": 1764045937690,
+        "total": 300,
+        "userEmail": "pradhakrishna594@gmail.com",
+        "userId": "gdsoH1gNQzZZCPOKvMu0GomSgQG3"
+      },
+      "1764090573434": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 4
+          }
+        ],
+        "timestamp": 1764090573434,
+        "total": 200,
+        "userEmail": "imrane@gmail.com",
+        "userId": "QDolSOXLJBQ8KtOtWYjHCZZQXqF2"
+      },
+      "1764091173076": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1764091173076,
+        "total": 50,
+        "userEmail": "adb@gmail.com",
+        "userId": "lHhM9gKhVXdDBiOT16Yg4MuuikN2"
+      }
+    },
+    "2025-11-27": {
+      "1764215136364": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1764215136364,
+        "total": 30,
+        "userEmail": "ganesh@gmail.com",
+        "userId": "FsqWcflTedg7MMDNcTl1Nac6D9M2"
+      },
+      "1764216193985": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1764216193985,
+        "total": 60,
+        "userEmail": "ganesh@gmail.com",
+        "userId": "FsqWcflTedg7MMDNcTl1Nac6D9M2"
+      },
+      "1764217036632": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1764217036632,
+        "total": 30,
+        "userEmail": "ganesh@gmail.com",
+        "userId": "FsqWcflTedg7MMDNcTl1Nac6D9M2"
+      },
+      "1764217051355": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1764217051355,
+        "total": 30,
+        "userEmail": "ganesh@gmail.com",
+        "userId": "FsqWcflTedg7MMDNcTl1Nac6D9M2"
+      },
+      "1764217079396": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1764217079396,
+        "total": 120,
+        "userEmail": "ganesh@gmail.com",
+        "userId": "FsqWcflTedg7MMDNcTl1Nac6D9M2"
+      },
+      "1764218355099": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1764218355100,
+        "total": 60,
+        "userEmail": "ganesh@gmail.com",
+        "userId": "FsqWcflTedg7MMDNcTl1Nac6D9M2"
+      },
+      "1764218434523": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1764218434523,
+        "total": 60,
+        "userEmail": "ganesh@gmail.com",
+        "userId": "FsqWcflTedg7MMDNcTl1Nac6D9M2"
+      },
+      "1764219553854": {
+        "items": [
+          {
+            "id": 11,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1764219553854,
+        "total": 50,
+        "userEmail": "ganesh@gmail.com",
+        "userId": "FsqWcflTedg7MMDNcTl1Nac6D9M2"
+      },
+      "1764222756983": {
+        "items": [
+          {
+            "id": 7,
+            "price": 100,
+            "quantity": 3
+          }
+        ],
+        "timestamp": 1764222756983,
+        "total": 300,
+        "userEmail": "ganesh@gmail.com",
+        "userId": "FsqWcflTedg7MMDNcTl1Nac6D9M2"
+      },
+      "1764223225870": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 3
+          }
+        ],
+        "timestamp": 1764223225870,
+        "total": 90,
+        "userEmail": "ganesh@gmail.com",
+        "userId": "FsqWcflTedg7MMDNcTl1Nac6D9M2"
+      },
+      "1764223270886": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 3
+          }
+        ],
+        "timestamp": 1764223270886,
+        "total": 180,
+        "userEmail": "ganesh@gmail.com",
+        "userId": "FsqWcflTedg7MMDNcTl1Nac6D9M2"
+      },
+      "1764242783813": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1764242783813,
+        "total": 60,
+        "userEmail": "hashirkhan15432@gmail.com",
+        "userId": "Hgi39tV5BvY5L5zeRtKLSpTptx32"
+      }
+    },
+    "2025-11-28": {
+      "1764327773966": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1764327773966,
+        "total": 30,
+        "userEmail": "test@testmail.com",
+        "userId": "osg7Pti3sLOjHSse0CKpqXdqDGS2"
+      },
+      "1764327792681": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          },
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          },
+          {
+            "id": 7,
+            "price": 100,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1764327792681,
+        "total": 180,
+        "userEmail": "test@testmail.com",
+        "userId": "osg7Pti3sLOjHSse0CKpqXdqDGS2"
+      },
+      "1764354539850": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1764354539850,
+        "total": 30,
+        "userEmail": "omiee77790@gmail.com",
+        "userId": "NQ5JtwCkooPFeOuB4idSOuLJkla2"
+      }
+    },
+    "2025-12-01": {
+      "1764563921610": {
+        "items": [
+          {
+            "id": "-OLZJDgopUjCUZ91SqwW",
+            "price": 160,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1764563921610,
+        "total": 160,
+        "userEmail": "abcd@gmail.com",
+        "userId": "GH19BAL66iQEVEW31tWGFgnUAkc2"
+      },
+      "1764563977079": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          },
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1764563977079,
+        "total": 90,
+        "userEmail": "abcd@gmail.com",
+        "userId": "GH19BAL66iQEVEW31tWGFgnUAkc2"
+      }
+    },
+    "2025-12-04": {
+      "1764869006042": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1764869006042,
+        "total": 30,
+        "userEmail": "krishna9559407012@gmail.com",
+        "userId": "zwON2oBPv9SOgCKgGhOXwW5NgTW2"
+      }
+    },
+    "2025-12-08": {
+      "1765189479640": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1765189479640,
+        "total": 30,
+        "userEmail": "ragu.thirdeye@gmail.com",
+        "userId": "XzaKPLM4nPWX8ni6359MovPqgvl2"
+      }
+    },
+    "2025-12-10": {
+      "1765381036715": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1765381036715,
+        "total": 30,
+        "userEmail": "asmitsrivastava@gmail.com",
+        "userId": "sffkpf41QLhNRTW3Z0awNlSW0ML2"
+      }
+    },
+    "2025-12-21": {
+      "1766350139149": {
+        "items": [
+          {
+            "id": 11,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1766350139149,
+        "total": 50,
+        "userEmail": "banozaro@fxzig.com",
+        "userId": "7FmG2cMT0igKpMXGtKyNjUgJWhu2"
+      }
+    },
+    "2025-12-27": {
+      "1766848612902": {
+        "items": [
+          {
+            "id": 7,
+            "price": 100,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1766848612902,
+        "total": 200,
+        "userEmail": "rohitraval40@gmail.com",
+        "userId": "BTlpPCzSrAX9kj5R7uS92PxsyPS2"
+      }
+    },
+    "2025-12-29": {
+      "1767029106495": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1767029106495,
+        "total": 30,
+        "userEmail": "sakshi1482005@gmail.com",
+        "userId": "UHm2ialOf6PRLZvuHqggokZLoHt1"
+      },
+      "1767029129724": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          },
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          },
+          {
+            "id": 6,
+            "price": 25,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1767029129724,
+        "total": 105,
+        "userEmail": "sakshi1482005@gmail.com",
+        "userId": "UHm2ialOf6PRLZvuHqggokZLoHt1"
+      }
+    },
+    "2025-12-31": {
+      "1767175975094": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          },
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1767175975094,
+        "total": 90,
+        "userEmail": "sakshi1482005@gmail.com",
+        "userId": "UHm2ialOf6PRLZvuHqggokZLoHt1"
+      },
+      "1767187060455": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          },
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1767187060456,
+        "total": 90,
+        "userEmail": "sakshi1482005@gmail.com",
+        "userId": "UHm2ialOf6PRLZvuHqggokZLoHt1"
+      },
+      "1767187524719": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 2
+          },
+          {
+            "id": 6,
+            "price": 25,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1767187524719,
+        "total": 85,
+        "userEmail": "sakshi1482005@gmail.com",
+        "userId": "UHm2ialOf6PRLZvuHqggokZLoHt1"
+      },
+      "1767187816267": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          },
+          {
+            "id": 7,
+            "price": 100,
+            "quantity": 2
+          },
+          {
+            "id": 5,
+            "price": 10,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1767187816267,
+        "total": 270,
+        "userEmail": "sakshi1482005@gmail.com",
+        "userId": "UHm2ialOf6PRLZvuHqggokZLoHt1"
+      },
+      "1767188006639": {
+        "items": [
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          },
+          {
+            "id": 5,
+            "price": 10,
+            "quantity": 2
+          },
+          {
+            "id": 8,
+            "price": 45,
+            "quantity": 4
+          }
+        ],
+        "timestamp": 1767188006639,
+        "total": 220,
+        "userEmail": "sakshi1482005@gmail.com",
+        "userId": "UHm2ialOf6PRLZvuHqggokZLoHt1"
+      },
+      "1767188751894": {
+        "items": [
+          {
+            "id": 6,
+            "price": 25,
+            "quantity": 1
+          },
+          {
+            "id": 7,
+            "price": 100,
+            "quantity": 4
+          },
+          {
+            "id": 10,
+            "price": 40,
+            "quantity": 3
+          }
+        ],
+        "timestamp": 1767188751894,
+        "total": 545,
+        "userEmail": "sakshi1482005@gmail.com",
+        "userId": "UHm2ialOf6PRLZvuHqggokZLoHt1"
+      }
+    },
+    "2026-01-01": {
+      "1767278850142": {
+        "items": [
+          {
+            "id": 8,
+            "price": 45,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1767278850142,
+        "total": 45,
+        "userEmail": "crazygaming18june@gmail.com",
+        "userId": "lnYd0iL22VPo630q3NuGji74VCj1"
+      }
+    },
+    "2026-01-04": {
+      "1767536524719": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          },
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          },
+          {
+            "id": 6,
+            "price": 25,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1767536524719,
+        "total": 105,
+        "userEmail": "new@gmail.com",
+        "userId": "oDiQohaFHyROOyoQrLfdBJxWtJG2"
+      },
+      "1767536559410": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1767536559410,
+        "total": 60,
+        "userEmail": "new@gmail.com",
+        "userId": "oDiQohaFHyROOyoQrLfdBJxWtJG2"
+      }
+    },
+    "2026-01-05": {
+      "1767587101002": {
+        "items": [
+          {
+            "id": 7,
+            "price": 100,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1767587101002,
+        "total": 100,
+        "userEmail": "sudharajan.btech@gmail.com",
+        "userId": "mqjdVb7pD3OKolPb3V708jOmFez1"
+      }
+    },
+    "2026-01-06": {
+      "1767676383342": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1767676383342,
+        "total": 120,
+        "userEmail": "sudharajan@gmail.com",
+        "userId": "WKKlSo5fq4fO2pwsAcdmOBJdEVq1"
+      },
+      "1767676420631": {
+        "items": [
+          {
+            "id": "-OLZJXGL1AGOvSYTY-6j",
+            "price": 120,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1767676420631,
+        "total": 120,
+        "userEmail": "sudharajan@gmail.com",
+        "userId": "WKKlSo5fq4fO2pwsAcdmOBJdEVq1"
+      },
+      "1767695911405": {
+        "items": [
+          {
+            "id": 12,
+            "price": 60,
+            "quantity": 12
+          }
+        ],
+        "timestamp": 1767695911405,
+        "total": 720,
+        "userEmail": "test22@gmail.com",
+        "userId": "efPt1QOlxthc8EQiMOGZUblLxdv2"
+      }
+    },
+    "2026-01-08": {
+      "1767896187849": {
+        "items": [
+          {
+            "id": "-OLZKHMySZwFZ4k8KNXD",
+            "price": 90,
+            "quantity": 2
+          }
+        ],
+        "timestamp": 1767896187849,
+        "total": 180,
+        "userEmail": "bk.atharva2005@gmail.com",
+        "userId": "baxiWp5BpeOjwLFruvzOcqYwGen2"
+      }
+    },
+    "2026-01-12": {
+      "1768224439568": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1768224439568,
+        "total": 60,
+        "userEmail": "santa13@gmail.com",
+        "userId": "ZM3XHUxZNROuooV1yA18Mj29o4S2"
+      }
+    },
+    "2026-01-15": {
+      "1768471536347": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 3
+          }
+        ],
+        "timestamp": 1768471536347,
+        "total": 180,
+        "userEmail": "madhanku635@gmail.com",
+        "userId": "af4FrLb6rSSxTljsjeEyPYiSSD22"
+      }
+    },
+    "2026-01-20": {
+      "1768915721823": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1768915721823,
+        "total": 60,
+        "userEmail": "mohantsk381@gmail.com",
+        "userId": "wKvl0TuXUZWPIpvu5qQ0Cz3UU0L2"
+      }
+    },
+    "2026-01-25": {
+      "1769300104406": {
+        "items": [
+          {
+            "id": 11,
+            "price": 50,
+            "quantity": 1
+          },
+          {
+            "id": "-OLZJXGL1AGOvSYTY-6j",
+            "price": 120,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1769300104406,
+        "total": 170,
+        "userEmail": "kaelalbert166@gmail.com",
+        "userId": "rNaPniYJtZR86ZPf7MhD2l0yGAu2"
+      }
+    },
+    "2026-01-27": {
+      "1769498039478": {
+        "items": [
+          {
+            "id": 6,
+            "price": 25,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1769498039478,
+        "total": 25,
+        "userEmail": "kaelalbert122@gmail.com",
+        "userId": "4ZKfjVDUDLROTQYZwTQ7hfyNC6F3"
+      },
+      "1769534334757": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 11
+          }
+        ],
+        "timestamp": 1769534334757,
+        "total": 550,
+        "userEmail": "singhthakuriswapneel@gmail.com",
+        "userId": "svp5YxcDlmRDyFfcn8Jp27VcPPD2"
+      }
+    },
+    "2026-01-28": {
+      "1769580909399": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1769580909399,
+        "total": 50,
+        "userEmail": "jeevanr5678r@gmial.com",
+        "userId": "Rz6zOPp2x6ZdT16wtfCgNPcy6ye2"
+      },
+      "1769587705948": {
+        "timestamp": 1769587705948,
+        "total": 0,
+        "userEmail": "jeevanr5678r@gmail.com",
+        "userId": "B13AkfAaVbbKbjRiNjmVfT38kK02"
+      }
+    },
+    "2026-01-29": {
+      "1769704725281": {
+        "items": [
+          {
+            "id": 2,
+            "price": 30,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1769704725281,
+        "total": 30,
+        "userEmail": "priyalpatell@gmail.com",
+        "userId": "UdJY8H9wjYR2dnmjclXOHyNDffn2"
+      },
+      "1769705223943": {
+        "items": [
+          {
+            "id": 4,
+            "price": 20,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1769705223943,
+        "total": 20,
+        "userEmail": "priyalpatell@gmail.com",
+        "userId": "UdJY8H9wjYR2dnmjclXOHyNDffn2"
+      }
+    },
+    "2026-01-30": {
+      "1769753427591": {
+        "items": [
+          {
+            "id": 3,
+            "price": 60,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1769753427591,
+        "total": 60,
+        "userEmail": "delbin8d@gmail.com",
+        "userId": "5lngPgcS7wQ3MKtitVYDugtQStE2"
+      },
+      "1769754454285": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1769754454286,
+        "total": 50,
+        "userEmail": "ll0023390@gmail.com",
+        "userId": "X7VvFAUBjwY6ptI7UmseYZAmhfl2"
+      },
+      "1769778157859": {
+        "items": [
+          {
+            "id": "-OLZJXGL1AGOvSYTY-6j",
+            "price": 120,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1769778157859,
+        "total": 120,
+        "userEmail": "senin@gmail.com",
+        "userId": "Y1iGlmehn2PX5wHyuekGRWynJWk2"
+      }
+    },
+    "2026-02-01": {
+      "1769954539220": {
+        "items": [
+          {
+            "id": 1,
+            "price": 50,
+            "quantity": 1
+          }
+        ],
+        "timestamp": 1769954539220,
+        "total": 50,
+        "userEmail": "demo123@gmail.com",
+        "userId": "z9ay2zxoToOcl41bOneSdAGjZXo2"
+      }
+    }
+  }
+}

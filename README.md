@@ -5,3 +5,5 @@
 [*2. Zomato Data Analysis*](./Zomato.ipynb)
 
 [*3. Titanic Survival Prediction Using Machine Learning*](./Titanic_Survival.ipynb)
+
+[*4. Canteen Management System Data*](./Canteen_Management.ipynb)
