@@ -1,6 +1,6 @@
 # Data Analysis Projects
 
-[*1. Customer Purchase Behavior & Revenue Analysis*](./Customer_Rev.ipynb)
+[*1. Customer Behavior & Revenue Analysis*](./Customer_Behavior_Analysis.ipynb)
 
 [*2. Zomato Data Analysis*](./Zomato.ipynb)
 
